@@ -1,0 +1,2001 @@
+patient_id,year,age,gender,marital_status,profession,years_in_profession,work_life_balance,job_satisfaction,burnout_level,burnout_category
+1,2014,59,Female,Divorced,Psychiatry,34,4,5,6,Low
+2,2014,43,Male,Married,Internal Medicine,18,2,4,7,High
+3,2014,42,Female,Divorced,Pediatrics,17,5,6,5,Low
+4,2014,34,Female,Married,Orthopedic Surgery,9,3,5,7,High
+5,2014,42,Male,Married,Family Medicine,17,3,5,6,Low
+6,2014,27,Female,Divorced,Cardiology,2,5,6,5,Low
+7,2014,50,Female,Single,Dermatology,25,4,5,6,Low
+8,2014,43,Male,Married,Radiology,18,7,8,2,Low
+9,2014,41,Male,Married,Emergency Medicine,16,3,5,6,Low
+10,2014,38,Male,Single,Anesthesiology,13,4,5,6,Low
+11,2014,38,Male,Married,Obstetrics/Gynecology,2,5,7,4,Low
+12,2014,40,Male,Single,Surgery,15,4,6,5,Low
+13,2014,47,Female,Single,Neurology,22,3,5,7,High
+14,2014,43,Male,Married,Ophthalmology,18,5,6,4,Low
+15,2014,46,Female,Married,Pediatrics,21,5,6,5,Low
+16,2014,41,Male,Married,Psychiatry,16,7,7,3,Low
+17,2014,50,Male,Single,Internal Medicine,25,4,5,6,Low
+18,2014,36,Female,Married,Family Medicine,2,3,5,7,High
+19,2014,41,Female,Married,Cardiology,16,5,6,4,Low
+20,2014,46,Female,Single,Dermatology,21,4,5,6,Low
+21,2014,34,Female,Married,Radiology,9,6,7,3,Low
+22,2014,54,Male,Married,Emergency Medicine,29,2,4,8,High
+23,2014,35,Male,Married,Anesthesiology,10,4,5,6,Low
+24,2014,32,Male,Married,Obstetrics/Gynecology,7,5,6,5,Low
+25,2014,33,Female,Married,Surgery,8,2,4,8,High
+26,2014,46,Male,Married,Neurology,21,6,7,4,Low
+27,2014,48,Male,Single,Ophthalmology,23,5,6,4,Low
+28,2014,49,Female,Married,Pediatrics,24,5,6,5,Low
+29,2014,42,Female,Married,Psychiatry,17,4,5,6,Low
+30,2014,51,Female,Married,Internal Medicine,26,4,5,6,Low
+31,2014,44,Male,Married,Family Medicine,19,4,5,6,Low
+32,2014,53,Female,Married,Cardiology,28,3,5,7,High
+33,2014,40,Female,Single,Dermatology,15,5,6,5,Low
+34,2014,39,Female,Single,Radiology,14,4,6,5,Low
+35,2014,45,Male,Married,Emergency Medicine,20,1,4,8,High
+36,2014,44,Female,Married,Anesthesiology,19,5,6,4,Low
+37,2014,38,Male,Single,Obstetrics/Gynecology,13,6,7,4,Low
+38,2014,57,Female,Married,Surgery,32,2,4,8,High
+39,2014,30,Male,Married,Neurology,5,3,5,6,Low
+40,2014,50,Male,Single,Ophthalmology,25,4,6,5,Low
+41,2014,28,Male,Married,Pediatrics,3,5,6,5,Low
+42,2014,46,Male,Single,Psychiatry,21,4,5,6,Low
+43,2014,42,Male,Single,Internal Medicine,17,3,5,7,High
+44,2014,54,Female,Married,Family Medicine,29,6,7,4,Low
+45,2014,55,Female,Single,Cardiology,30,4,5,6,Low
+46,2014,36,Male,Married,Dermatology,11,4,5,6,Low
+47,2014,52,Male,Divorced,Radiology,27,6,7,3,Low
+48,2014,42,Male,Married,Emergency Medicine,17,2,4,7,High
+49,2014,49,Male,Divorced,Anesthesiology,24,4,5,6,Low
+50,2014,48,Male,Married,Obstetrics/Gynecology,23,4,6,5,Low
+51,2014,53,Female,Single,Surgery,28,2,4,8,High
+52,2014,50,Male,Married,Neurology,25,3,5,6,Low
+53,2014,36,Female,Married,Ophthalmology,11,5,6,5,Low
+54,2014,44,Male,Married,Pediatrics,19,5,6,4,Low
+55,2014,59,Male,Married,Psychiatry,34,5,6,5,Low
+56,2014,50,Female,Married,Internal Medicine,25,3,5,7,High
+57,2014,46,Male,Married,Family Medicine,21,4,6,5,Low
+58,2014,52,Male,Married,Cardiology,27,3,5,7,High
+59,2014,50,Female,Married,Dermatology,25,3,5,6,Low
+60,2014,52,Male,Married,Radiology,27,5,6,4,Low
+61,2014,38,Female,Single,Emergency Medicine,13,1,4,8,High
+62,2014,42,Female,Married,Anesthesiology,17,6,7,3,Low
+63,2014,44,Female,Married,Obstetrics/Gynecology,19,6,7,4,Low
+64,2014,52,Male,Married,Surgery,27,2,4,8,High
+65,2014,46,Female,Married,Neurology,21,5,6,4,Low
+66,2014,42,Male,Divorced,Ophthalmology,17,5,6,4,Low
+67,2014,46,Male,Married,Pediatrics,21,4,5,6,Low
+68,2014,43,Female,Single,Psychiatry,18,4,5,6,Low
+69,2014,47,Male,Married,Internal Medicine,22,5,6,4,Low
+70,2014,44,Male,Divorced,Family Medicine,19,4,5,6,Low
+71,2014,46,Female,Single,Cardiology,21,2,4,8,High
+72,2014,49,Female,Married,Dermatology,24,4,5,6,Low
+73,2014,33,Male,Married,Radiology,0,7,7,3,Low
+74,2014,43,Male,Married,Emergency Medicine,18,1,4,8,High
+75,2014,52,Male,Married,Anesthesiology,27,4,5,6,Low
+76,2014,41,Male,Married,Obstetrics/Gynecology,16,5,6,4,Low
+77,2014,45,Female,Married,Surgery,20,2,4,8,High
+78,2014,54,Male,Married,Neurology,29,6,7,4,Low
+79,2014,53,Male,Married,Ophthalmology,28,5,6,4,Low
+80,2014,34,Male,Married,Pediatrics,9,3,4,7,High
+81,2014,43,Male,Married,Internal Medicine,18,3,5,7,High
+82,2014,55,Male,Married,Family Medicine,30,4,5,6,Low
+83,2014,53,Male,Single,Cardiology,28,4,5,6,Low
+84,2014,46,Male,Single,Dermatology,21,4,6,5,Low
+85,2014,54,Female,Single,Orthopedic Surgery,29,1,3,9,High
+86,2014,40,Male,Married,Obstetrics/Gynecology,15,4,5,6,Low
+87,2014,37,Male,Single,Surgery,12,3,4,7,High
+88,2014,54,Female,Divorced,Neurology,29,4,5,6,Low
+89,2014,56,Male,Married,Ophthalmology,31,5,6,4,Low
+90,2014,45,Female,Married,Pediatrics,20,4,5,6,Low
+91,2014,37,Male,Married,Psychiatry,12,5,6,5,Low
+92,2014,36,Male,Married,Internal Medicine,11,2,4,7,High
+93,2014,47,Male,Married,Family Medicine,22,3,5,6,Low
+94,2014,43,Female,Married,Cardiology,18,4,5,6,Low
+95,2014,63,Male,Married,Dermatology,38,6,7,3,Low
+96,2014,52,Female,Married,Radiology,27,4,6,5,Low
+97,2014,42,Male,Married,Emergency Medicine,17,2,4,7,High
+98,2014,49,Female,Married,Anesthesiology,24,4,5,6,Low
+99,2014,43,Female,Single,Obstetrics/Gynecology,18,3,4,7,High
+100,2014,61,Male,Single,Surgery,36,2,4,8,High
+101,2014,49,Male,Married,Neurology,24,3,5,6,Low
+102,2014,40,Male,Single,Ophthalmology,15,7,8,2,Low
+103,2014,37,Male,Married,Pediatrics,12,4,6,5,Low
+104,2014,42,Male,Single,Psychiatry,17,6,7,3,Low
+105,2014,51,Female,Single,Internal Medicine,26,3,5,6,Low
+106,2014,44,Male,Married,Family Medicine,19,4,6,5,Low
+107,2014,40,Male,Single,Cardiology,15,3,4,7,High
+108,2014,44,Male,Married,Dermatology,19,5,6,5,Low
+109,2014,30,Female,Married,Orthopedic Surgery,2,1,3,9,High
+110,2014,59,Male,Married,Obstetrics/Gynecology,34,4,5,6,Low
+111,2014,39,Male,Married,Surgery,14,2,4,8,High
+112,2014,67,Male,Divorced,Neurology,42,5,6,5,Low
+113,2014,43,Female,Married,Ophthalmology,18,6,7,3,Low
+114,2014,49,Female,Married,Pediatrics,24,4,5,6,Low
+115,2014,36,Male,Married,Psychiatry,11,4,6,5,Low
+116,2014,32,Male,Married,Internal Medicine,7,4,5,6,Low
+117,2014,38,Male,Married,Family Medicine,13,5,6,4,Low
+118,2014,36,Male,Married,Cardiology,11,4,5,6,Low
+119,2014,46,Female,Married,Dermatology,21,5,6,4,Low
+120,2014,42,Female,Married,Radiology,17,6,7,3,Low
+121,2014,56,Female,Divorced,Emergency Medicine,31,1,3,9,High
+122,2014,35,Male,Single,Anesthesiology,10,3,5,7,High
+123,2014,45,Male,Married,Obstetrics/Gynecology,20,4,5,6,Low
+124,2014,40,Male,Married,Surgery,15,2,4,8,High
+125,2014,43,Male,Divorced,Neurology,18,5,6,5,Low
+126,2014,46,Female,Married,Ophthalmology,21,6,7,3,Low
+127,2014,39,Female,Married,Pediatrics,14,3,5,7,High
+128,2014,33,Male,Married,Psychiatry,2,4,6,5,Low
+129,2014,51,Male,Divorced,Internal Medicine,26,3,5,7,High
+130,2014,33,Male,Married,Family Medicine,3,3,5,7,High
+131,2014,45,Male,Divorced,Cardiology,20,5,6,5,Low
+132,2014,43,Female,Single,Dermatology,18,6,7,4,Low
+133,2014,50,Male,Married,Orthopedic Surgery,25,2,4,8,High
+134,2014,46,Female,Single,Obstetrics/Gynecology,21,3,5,7,High
+135,2014,50,Female,Single,Surgery,25,4,5,6,Low
+136,2014,43,Male,Single,Neurology,18,3,5,7,High
+137,2014,47,Female,Married,Ophthalmology,22,7,8,2,Low
+138,2014,49,Male,Married,Pediatrics,24,3,4,7,High
+139,2014,39,Male,Married,Psychiatry,14,4,6,5,Low
+140,2014,49,Female,Married,Internal Medicine,24,3,5,7,High
+141,2014,45,Female,Single,Family Medicine,20,3,5,6,Low
+142,2014,51,Female,Married,Cardiology,26,5,6,4,Low
+143,2014,46,Male,Married,Dermatology,21,5,6,5,Low
+144,2014,56,Female,Married,Radiology,31,7,8,2,Low
+145,2014,35,Male,Married,Emergency Medicine,10,1,4,8,High
+146,2014,40,Male,Single,Anesthesiology,15,4,5,6,Low
+147,2014,50,Male,Married,Obstetrics/Gynecology,25,6,7,3,Low
+148,2014,43,Male,Married,Surgery,18,4,5,6,Low
+149,2014,50,Female,Divorced,Neurology,25,2,4,8,High
+150,2014,47,Male,Married,Ophthalmology,22,5,6,4,Low
+151,2014,46,Male,Married,Pediatrics,21,4,5,6,Low
+152,2014,34,Male,Married,Psychiatry,9,6,7,3,Low
+153,2014,46,Male,Married,Internal Medicine,21,3,5,7,High
+154,2014,40,Female,Divorced,Family Medicine,15,5,6,4,Low
+155,2014,47,Female,Single,Cardiology,22,3,4,7,High
+156,2014,45,Female,Married,Dermatology,20,5,6,4,Low
+157,2014,41,Female,Single,Orthopedic Surgery,16,4,5,6,Low
+158,2014,39,Male,Married,Obstetrics/Gynecology,14,4,5,6,Low
+159,2014,38,Female,Divorced,Surgery,13,3,5,6,Low
+160,2014,38,Female,Married,Neurology,1,3,5,6,Low
+161,2014,35,Female,Married,Ophthalmology,10,4,6,5,Low
+162,2014,43,Female,Married,Pediatrics,18,3,4,7,High
+163,2014,52,Male,Divorced,Psychiatry,27,4,6,5,Low
+164,2014,48,Male,Married,Internal Medicine,23,3,5,6,Low
+165,2014,56,Female,Married,Family Medicine,31,3,5,7,High
+166,2014,50,Female,Married,Cardiology,25,5,6,4,Low
+167,2014,47,Male,Married,Dermatology,22,4,6,5,Low
+168,2014,34,Male,Married,Radiology,9,4,6,5,Low
+169,2014,47,Female,Divorced,Emergency Medicine,22,1,3,9,High
+170,2014,38,Female,Married,Anesthesiology,13,4,6,5,Low
+171,2014,45,Male,Married,Obstetrics/Gynecology,20,5,6,4,Low
+172,2014,48,Male,Married,Surgery,23,3,4,7,High
+173,2014,51,Male,Single,Neurology,26,2,4,7,High
+174,2014,44,Male,Married,Ophthalmology,19,5,6,5,Low
+175,2014,45,Male,Single,Pediatrics,20,4,5,6,Low
+176,2014,44,Female,Married,Psychiatry,19,4,6,5,Low
+177,2014,38,Female,Married,Internal Medicine,13,2,4,7,High
+178,2014,43,Female,Single,Family Medicine,18,5,6,4,Low
+179,2014,36,Female,Single,Cardiology,11,2,4,8,High
+180,2014,52,Female,Single,Dermatology,27,5,6,5,Low
+181,2014,57,Male,Married,Orthopedic Surgery,32,4,5,6,Low
+182,2014,49,Male,Married,Obstetrics/Gynecology,24,4,5,6,Low
+183,2014,43,Male,Married,Surgery,18,3,4,7,High
+184,2014,40,Female,Married,Neurology,15,3,5,6,Low
+185,2014,38,Female,Single,Ophthalmology,2,6,7,3,Low
+186,2014,43,Male,Married,Pediatrics,18,5,6,4,Low
+187,2014,36,Male,Married,Psychiatry,11,6,7,4,Low
+188,2014,33,Female,Single,Internal Medicine,8,1,3,9,High
+189,2014,56,Female,Married,Family Medicine,31,4,5,6,Low
+190,2014,49,Female,Married,Cardiology,24,4,5,6,Low
+191,2014,47,Male,Married,Dermatology,22,6,7,4,Low
+192,2014,49,Female,Single,Radiology,24,6,7,3,Low
+193,2014,58,Female,Divorced,Emergency Medicine,33,2,4,8,High
+194,2014,60,Male,Single,Anesthesiology,35,5,6,4,Low
+195,2014,46,Male,Married,Obstetrics/Gynecology,21,6,7,3,Low
+196,2014,32,Female,Single,Surgery,7,3,4,7,High
+197,2014,41,Male,Single,Neurology,16,2,4,7,High
+198,2014,53,Male,Married,Ophthalmology,28,6,7,4,Low
+199,2014,44,Female,Divorced,Pediatrics,19,4,5,6,Low
+200,2014,39,Male,Married,Psychiatry,14,6,7,4,Low
+201,2015,43,Male,Divorced,Psychiatry,18,4,5,6,Low
+202,2015,49,Female,Single,Internal Medicine,24,3,5,6,Low
+203,2015,38,Female,Single,Pediatrics,0,4,5,6,Low
+204,2015,42,Male,Divorced,Orthopedic Surgery,17,3,4,7,High
+205,2015,37,Female,Married,Family Medicine,5,3,5,7,High
+206,2015,42,Male,Married,Cardiology,17,3,5,6,Low
+207,2015,42,Male,Married,Dermatology,17,4,6,5,Low
+208,2015,42,Female,Single,Radiology,17,4,6,5,Low
+209,2015,50,Male,Divorced,Emergency Medicine,25,2,4,8,High
+210,2015,62,Male,Single,Anesthesiology,37,5,6,4,Low
+211,2015,43,Female,Married,Obstetrics/Gynecology,18,6,7,4,Low
+212,2015,45,Female,Married,Surgery,20,2,4,8,High
+213,2015,46,Female,Married,Neurology,21,5,6,4,Low
+214,2015,44,Male,Married,Ophthalmology,19,7,7,3,Low
+215,2015,42,Female,Married,Pediatrics,17,5,6,5,Low
+216,2015,38,Male,Married,Psychiatry,2,4,5,5,Low
+217,2015,45,Female,Married,Internal Medicine,20,2,4,7,High
+218,2015,40,Male,Single,Family Medicine,15,4,5,6,Low
+219,2015,33,Female,Married,Cardiology,8,3,5,7,High
+220,2015,43,Male,Married,Dermatology,18,5,6,5,Low
+221,2015,58,Male,Married,Radiology,33,5,6,5,Low
+222,2015,48,Female,Married,Emergency Medicine,23,1,4,8,High
+223,2015,50,Male,Married,Anesthesiology,25,5,6,5,Low
+224,2015,48,Male,Married,Obstetrics/Gynecology,23,5,6,4,Low
+225,2015,40,Female,Married,Surgery,15,3,5,6,Low
+226,2015,59,Male,Married,Neurology,34,3,5,6,Low
+227,2015,45,Male,Married,Ophthalmology,20,8,8,2,Low
+228,2015,51,Male,Married,Pediatrics,26,5,6,4,Low
+229,2015,51,Male,Married,Psychiatry,26,4,5,6,Low
+230,2015,42,Male,Married,Internal Medicine,17,3,5,7,High
+231,2015,37,Female,Married,Family Medicine,5,3,5,6,Low
+232,2015,42,Female,Single,Cardiology,17,3,5,7,High
+233,2015,47,Male,Married,Dermatology,22,5,6,5,Low
+234,2015,47,Female,Single,Radiology,22,6,7,3,Low
+235,2015,54,Female,Divorced,Emergency Medicine,29,1,3,9,High
+236,2015,45,Male,Married,Anesthesiology,20,5,6,5,Low
+237,2015,53,Male,Married,Obstetrics/Gynecology,28,5,6,4,Low
+238,2015,50,Female,Single,Surgery,25,2,4,8,High
+239,2015,41,Male,Single,Neurology,16,2,4,7,High
+240,2015,48,Male,Married,Ophthalmology,23,5,6,4,Low
+241,2015,41,Male,Married,Pediatrics,16,4,6,5,Low
+242,2015,44,Female,Divorced,Psychiatry,19,5,6,4,Low
+243,2015,32,Male,Married,Internal Medicine,7,2,4,8,High
+244,2015,46,Female,Married,Family Medicine,21,3,5,6,Low
+245,2015,38,Female,Married,Cardiology,3,3,4,7,High
+246,2015,46,Male,Married,Dermatology,21,5,6,5,Low
+247,2015,48,Male,Married,Radiology,23,5,6,4,Low
+248,2015,41,Female,Married,Emergency Medicine,16,1,4,8,High
+249,2015,50,Male,Single,Anesthesiology,25,4,6,5,Low
+250,2015,46,Male,Married,Obstetrics/Gynecology,21,4,5,6,Low
+251,2015,41,Female,Single,Surgery,16,4,5,6,Low
+252,2015,54,Male,Married,Neurology,29,5,6,5,Low
+253,2015,42,Male,Married,Ophthalmology,17,7,7,3,Low
+254,2015,41,Male,Married,Pediatrics,16,3,5,7,High
+255,2015,42,Female,Married,Psychiatry,17,3,5,6,Low
+256,2015,52,Female,Married,Internal Medicine,27,3,5,7,High
+257,2015,42,Female,Married,Family Medicine,17,3,5,7,High
+258,2015,47,Male,Married,Cardiology,22,3,5,6,Low
+259,2015,38,Female,Married,Dermatology,13,5,6,4,Low
+260,2015,45,Male,Single,Radiology,20,7,8,2,Low
+261,2015,40,Female,Married,Emergency Medicine,15,4,5,6,Low
+262,2015,52,Male,Married,Anesthesiology,27,4,5,6,Low
+263,2015,39,Male,Single,Obstetrics/Gynecology,14,3,5,7,High
+264,2015,50,Female,Married,Surgery,25,3,5,6,Low
+265,2015,37,Male,Single,Neurology,12,3,5,7,High
+266,2015,48,Male,Divorced,Ophthalmology,23,7,8,2,Low
+267,2015,49,Male,Married,Pediatrics,24,5,6,4,Low
+268,2015,43,Male,Divorced,Psychiatry,18,5,6,5,Low
+269,2015,51,Male,Married,Internal Medicine,26,3,5,6,Low
+270,2015,45,Female,Married,Family Medicine,20,3,5,6,Low
+271,2015,47,Female,Married,Cardiology,22,3,5,7,High
+272,2015,47,Female,Married,Dermatology,22,4,6,5,Low
+273,2015,40,Male,Married,Radiology,15,5,6,5,Low
+274,2015,52,Female,Married,Emergency Medicine,27,4,5,6,Low
+275,2015,47,Female,Married,Anesthesiology,22,4,6,5,Low
+276,2015,39,Male,Divorced,Obstetrics/Gynecology,14,4,5,6,Low
+277,2015,52,Male,Married,Surgery,27,2,4,8,High
+278,2015,33,Female,Married,Neurology,5,4,5,6,Low
+279,2015,50,Male,Married,Ophthalmology,25,5,6,4,Low
+280,2015,33,Male,Married,Pediatrics,8,2,4,8,High
+281,2015,51,Female,Married,Psychiatry,26,4,5,6,Low
+282,2015,42,Male,Married,Internal Medicine,17,5,6,4,Low
+283,2015,40,Male,Divorced,Family Medicine,15,6,7,4,Low
+284,2015,42,Male,Married,Emergency Medicine,17,3,5,6,Low
+285,2015,40,Female,Married,Neurology,15,2,4,7,High
+286,2015,47,Female,Married,Anesthesiology,22,4,5,6,Low
+287,2015,47,Male,Married,Obstetrics/Gynecology,22,4,6,5,Low
+288,2015,45,Male,Married,Dermatology,20,4,6,5,Low
+289,2015,50,Male,Married,Pediatrics,25,3,4,7,High
+290,2015,50,Male,Married,Psychiatry,25,6,7,4,Low
+291,2015,47,Female,Married,Internal Medicine,22,5,6,5,Low
+292,2015,51,Male,Married,Family Medicine,26,6,7,3,Low
+293,2015,52,Male,Married,Cardiology,27,6,7,4,Low
+294,2015,44,Male,Married,Pediatrics,19,4,6,5,Low
+295,2015,51,Female,Single,Radiology,26,4,6,5,Low
+296,2015,39,Female,Divorced,Emergency Medicine,14,1,3,9,High
+297,2015,56,Female,Married,Neurology,31,5,6,4,Low
+298,2015,38,Female,Married,Anesthesiology,13,3,5,6,Low
+299,2015,48,Female,Married,Obstetrics/Gynecology,23,4,5,6,Low
+300,2015,43,Female,Divorced,Cardiology,18,3,5,6,Low
+301,2015,38,Male,Divorced,Surgery,13,3,5,7,High
+302,2015,47,Male,Married,Neurology,22,3,5,7,High
+303,2015,43,Female,Single,Ophthalmology,18,4,6,5,Low
+304,2015,53,Female,Married,Pediatrics,28,5,6,5,Low
+305,2015,30,Male,Married,Psychiatry,5,4,5,6,Low
+306,2015,48,Male,Married,Internal Medicine,23,4,6,5,Low
+307,2015,52,Female,Single,Family Medicine,27,3,5,7,High
+308,2015,50,Male,Married,Cardiology,25,3,5,6,Low
+309,2015,53,Female,Married,Dermatology,28,6,7,3,Low
+310,2015,40,Male,Married,Radiology,15,5,6,4,Low
+311,2015,49,Female,Divorced,Emergency Medicine,24,3,4,7,High
+312,2015,54,Male,Married,Anesthesiology,29,4,5,6,Low
+313,2015,32,Male,Married,Obstetrics/Gynecology,7,4,5,6,Low
+314,2015,37,Male,Married,Surgery,0,4,5,5,Low
+315,2015,48,Male,Married,Neurology,23,3,5,7,High
+316,2015,48,Female,Single,Ophthalmology,23,5,6,5,Low
+317,2015,48,Female,Married,Pediatrics,23,5,6,5,Low
+318,2015,55,Male,Married,Psychiatry,30,6,7,4,Low
+319,2015,40,Male,Married,Internal Medicine,15,4,6,5,Low
+320,2015,47,Female,Single,Family Medicine,22,4,6,5,Low
+321,2015,42,Male,Married,Cardiology,17,6,7,4,Low
+322,2015,36,Male,Married,Dermatology,11,6,7,4,Low
+323,2015,33,Female,Married,Radiology,3,6,7,3,Low
+324,2015,37,Male,Married,Emergency Medicine,12,4,6,5,Low
+325,2015,49,Male,Married,Anesthesiology,24,6,7,4,Low
+326,2015,35,Male,Divorced,Obstetrics/Gynecology,10,3,5,6,Low
+327,2015,44,Female,Married,Surgery,19,2,4,8,High
+328,2015,42,Male,Married,Neurology,17,5,6,5,Low
+329,2015,43,Male,Single,Ophthalmology,18,5,6,5,Low
+330,2015,42,Male,Married,Pediatrics,17,3,4,7,High
+331,2015,41,Male,Divorced,Psychiatry,16,6,7,4,Low
+332,2015,39,Male,Married,Internal Medicine,14,5,6,4,Low
+333,2015,48,Female,Married,Family Medicine,23,3,5,7,High
+334,2015,46,Male,Married,Cardiology,21,5,6,5,Low
+335,2015,50,Male,Single,Dermatology,25,4,5,6,Low
+336,2015,50,Female,Single,Radiology,25,5,6,5,Low
+337,2015,54,Female,Married,Emergency Medicine,29,1,4,8,High
+338,2015,54,Male,Married,Anesthesiology,29,4,6,5,Low
+339,2015,30,Female,Married,Obstetrics/Gynecology,5,4,6,5,Low
+340,2015,57,Male,Married,Surgery,32,4,5,6,Low
+341,2015,51,Female,Married,Neurology,26,3,5,6,Low
+342,2015,37,Male,Married,Ophthalmology,12,5,6,5,Low
+343,2015,48,Male,Married,Pediatrics,23,3,5,7,High
+344,2015,37,Male,Married,Psychiatry,5,5,6,4,Low
+345,2015,51,Male,Married,Internal Medicine,26,2,4,7,High
+346,2015,53,Female,Single,Family Medicine,28,4,6,5,Low
+347,2015,44,Male,Single,Cardiology,19,3,5,7,High
+348,2015,43,Female,Single,Dermatology,18,6,7,4,Low
+349,2015,46,Male,Married,Radiology,21,6,7,4,Low
+350,2015,42,Male,Single,Emergency Medicine,17,1,4,8,High
+351,2015,41,Male,Married,Anesthesiology,16,7,7,3,Low
+352,2015,37,Male,Single,Obstetrics/Gynecology,12,4,5,6,Low
+353,2015,40,Male,Single,Surgery,15,3,4,7,High
+354,2015,46,Male,Married,Neurology,21,5,6,5,Low
+355,2015,46,Male,Divorced,Ophthalmology,21,7,8,2,Low
+356,2015,56,Female,Married,Pediatrics,31,4,5,6,Low
+357,2015,48,Male,Married,Psychiatry,23,4,5,6,Low
+358,2015,55,Male,Married,Internal Medicine,30,3,5,6,Low
+359,2015,50,Female,Married,Family Medicine,25,3,5,7,High
+360,2015,48,Male,Divorced,Cardiology,23,4,5,6,Low
+361,2015,41,Female,Divorced,Dermatology,16,5,6,5,Low
+362,2015,52,Male,Married,Radiology,27,5,6,4,Low
+363,2015,39,Female,Divorced,Emergency Medicine,14,4,5,6,Low
+364,2015,37,Female,Single,Anesthesiology,12,5,6,5,Low
+365,2015,50,Female,Married,Obstetrics/Gynecology,25,3,5,7,High
+366,2015,32,Male,Married,Surgery,7,4,6,5,Low
+367,2015,34,Female,Married,Neurology,9,5,6,5,Low
+368,2015,38,Female,Married,Ophthalmology,13,4,6,5,Low
+369,2015,44,Female,Married,Pediatrics,19,4,5,6,Low
+370,2015,41,Male,Single,Psychiatry,16,3,5,6,Low
+371,2015,29,Male,Married,Internal Medicine,4,3,4,7,High
+372,2015,41,Male,Married,Family Medicine,16,4,6,5,Low
+373,2015,41,Female,Single,Cardiology,16,5,6,5,Low
+374,2015,41,Male,Single,Dermatology,16,4,5,6,Low
+375,2015,47,Male,Married,Radiology,22,7,8,2,Low
+376,2015,45,Male,Married,Emergency Medicine,20,3,5,6,Low
+377,2015,37,Male,Married,Anesthesiology,12,4,5,6,Low
+378,2015,34,Male,Married,Obstetrics/Gynecology,9,6,7,4,Low
+379,2015,46,Female,Married,Surgery,21,3,5,6,Low
+380,2015,57,Female,Married,Neurology,32,2,4,7,High
+381,2015,46,Female,Single,Ophthalmology,21,7,7,3,Low
+382,2015,42,Female,Single,Pediatrics,17,2,4,8,High
+383,2015,47,Male,Married,Psychiatry,22,7,7,3,Low
+384,2015,32,Female,Married,Internal Medicine,7,2,4,8,High
+385,2015,48,Female,Married,Family Medicine,23,3,5,7,High
+386,2015,40,Female,Single,Cardiology,15,3,5,7,High
+387,2015,47,Male,Married,Dermatology,22,5,6,5,Low
+388,2015,46,Male,Divorced,Radiology,21,5,6,4,Low
+389,2015,51,Male,Single,Emergency Medicine,26,4,5,6,Low
+390,2015,33,Female,Married,Anesthesiology,8,4,5,6,Low
+391,2015,36,Female,Married,Obstetrics/Gynecology,11,4,5,6,Low
+392,2015,36,Male,Married,Surgery,11,2,4,8,High
+393,2015,49,Male,Married,Neurology,24,5,6,5,Low
+394,2015,48,Female,Married,Ophthalmology,23,5,6,5,Low
+395,2015,57,Male,Married,Pediatrics,32,3,5,7,High
+396,2015,51,Male,Divorced,Psychiatry,26,7,7,3,Low
+397,2015,44,Female,Married,Internal Medicine,19,2,4,7,High
+398,2015,55,Female,Married,Family Medicine,30,6,7,4,Low
+399,2015,50,Female,Married,Cardiology,25,3,4,7,High
+400,2015,47,Male,Married,Dermatology,22,4,6,5,Low
+401,2016,38,Male,Single,Psychiatry,13,3,5,6,Low
+402,2016,38,Male,Divorced,Internal Medicine,4,2,4,8,High
+403,2016,46,Male,Single,Family Medicine,21,5,6,5,Low
+404,2016,41,Male,Married,Cardiology,16,5,6,5,Low
+405,2016,38,Female,Single,Neurology,13,2,4,8,High
+406,2016,46,Male,Married,Emergency Medicine,21,4,5,5,Low
+407,2016,40,Female,Married,Anesthesiology,15,4,5,6,Low
+408,2016,37,Male,Married,Obstetrics/Gynecology,12,5,6,4,Low
+409,2016,44,Female,Married,Surgery,19,2,4,8,High
+410,2016,39,Male,Married,Dermatology,1,6,7,4,Low
+411,2016,35,Male,Married,Radiology,1,6,7,4,Low
+412,2016,44,Female,Single,Pediatrics,19,3,4,7,High
+413,2016,50,Male,Married,Psychiatry,25,7,7,3,Low
+414,2016,50,Female,Married,Internal Medicine,25,4,5,6,Low
+415,2016,34,Female,Married,Family Medicine,9,3,4,7,High
+416,2016,55,Male,Single,Cardiology,30,5,6,4,Low
+417,2016,30,Female,Divorced,Neurology,5,4,5,6,Low
+418,2016,58,Male,Married,Emergency Medicine,33,1,3,8,High
+419,2016,56,Male,Single,Anesthesiology,31,6,7,3,Low
+420,2016,51,Male,Married,Obstetrics/Gynecology,26,6,7,3,Low
+421,2016,43,Male,Married,Surgery,18,5,6,5,Low
+422,2016,38,Female,Married,Dermatology,13,5,6,4,Low
+423,2016,56,Male,Married,Radiology,31,7,8,2,Low
+424,2016,42,Female,Married,Pediatrics,17,3,5,7,High
+425,2016,41,Male,Single,Psychiatry,16,4,5,6,Low
+426,2016,53,Male,Divorced,Internal Medicine,28,5,6,5,Low
+427,2016,58,Male,Married,Family Medicine,33,4,5,5,Low
+428,2016,40,Male,Married,Cardiology,15,3,5,6,Low
+429,2016,56,Female,Married,Neurology,31,4,5,5,Low
+430,2016,39,Female,Married,Emergency Medicine,14,4,5,6,Low
+431,2016,46,Male,Single,Anesthesiology,21,6,7,3,Low
+432,2016,48,Female,Married,Obstetrics/Gynecology,23,6,7,4,Low
+433,2016,38,Male,Single,Surgery,13,2,4,8,High
+434,2016,56,Male,Married,Dermatology,31,6,7,3,Low
+435,2016,42,Female,Divorced,Radiology,17,4,5,6,Low
+436,2016,44,Male,Single,Pediatrics,19,2,4,8,High
+437,2016,40,Female,Single,Psychiatry,15,6,7,4,Low
+438,2016,38,Female,Married,Internal Medicine,13,5,6,5,Low
+439,2016,40,Female,Married,Family Medicine,15,3,5,6,Low
+440,2016,43,Male,Married,Cardiology,18,5,6,5,Low
+441,2016,42,Female,Single,Neurology,17,2,4,8,High
+442,2016,49,Male,Single,Emergency Medicine,24,2,4,8,High
+443,2016,51,Male,Married,Anesthesiology,26,4,5,6,Low
+444,2016,30,Male,Married,Obstetrics/Gynecology,5,3,5,7,High
+445,2016,29,Male,Married,Surgery,4,3,5,7,High
+446,2016,48,Female,Married,Dermatology,23,5,6,4,Low
+447,2016,64,Female,Married,Radiology,39,5,6,5,Low
+448,2016,51,Male,Married,Pediatrics,26,3,5,7,High
+449,2016,40,Male,Single,Psychiatry,15,4,5,6,Low
+450,2016,45,Male,Single,Internal Medicine,20,2,4,8,High
+451,2016,56,Male,Married,Family Medicine,31,4,5,6,Low
+452,2016,52,Female,Married,Cardiology,27,4,6,5,Low
+453,2016,48,Male,Single,Neurology,23,3,5,6,Low
+454,2016,56,Male,Divorced,Emergency Medicine,31,1,3,9,High
+455,2016,40,Female,Married,Anesthesiology,15,4,6,5,Low
+456,2016,48,Female,Married,Obstetrics/Gynecology,23,6,7,4,Low
+457,2016,41,Male,Married,Surgery,16,5,6,5,Low
+458,2016,34,Male,Married,Dermatology,9,3,5,6,Low
+459,2016,36,Male,Single,Radiology,11,7,7,2,Low
+460,2016,48,Male,Single,Pediatrics,23,3,5,7,High
+461,2016,44,Male,Single,Psychiatry,19,4,5,6,Low
+462,2016,51,Male,Married,Internal Medicine,26,3,5,6,Low
+463,2016,47,Male,Married,Family Medicine,22,5,6,4,Low
+464,2016,46,Female,Married,Cardiology,21,3,4,7,High
+465,2016,52,Male,Single,Neurology,27,2,4,7,High
+466,2016,44,Male,Married,Emergency Medicine,19,2,4,8,High
+467,2016,37,Female,Married,Anesthesiology,12,3,5,6,Low
+468,2016,33,Female,Married,Obstetrics/Gynecology,3,3,4,7,High
+469,2016,49,Male,Married,Surgery,24,4,5,6,Low
+470,2016,50,Female,Single,Dermatology,25,5,6,5,Low
+471,2016,49,Male,Single,Radiology,24,7,7,2,Low
+472,2016,53,Female,Married,Pediatrics,28,3,5,7,High
+473,2016,47,Female,Divorced,Psychiatry,22,3,5,6,Low
+474,2016,47,Female,Married,Internal Medicine,22,5,6,5,Low
+475,2016,45,Female,Married,Family Medicine,20,5,6,5,Low
+476,2016,45,Male,Married,Cardiology,20,4,5,6,Low
+477,2016,39,Male,Single,Neurology,14,3,5,6,Low
+478,2016,46,Male,Single,Emergency Medicine,21,1,3,8,High
+479,2016,33,Male,Married,Anesthesiology,8,5,6,4,Low
+480,2016,41,Male,Married,Obstetrics/Gynecology,16,5,6,4,Low
+481,2016,47,Male,Married,Surgery,22,3,4,7,High
+482,2016,37,Male,Single,Dermatology,12,3,5,6,Low
+483,2016,42,Female,Married,Radiology,17,7,7,2,Low
+484,2016,51,Male,Married,Pediatrics,26,4,6,5,Low
+485,2016,49,Female,Married,Psychiatry,24,6,7,3,Low
+486,2016,50,Male,Married,Internal Medicine,25,3,4,7,High
+487,2016,41,Female,Married,Family Medicine,16,5,6,5,Low
+488,2016,41,Female,Married,Cardiology,16,3,4,7,High
+489,2016,52,Male,Divorced,Neurology,27,4,6,5,Low
+490,2016,38,Female,Single,Emergency Medicine,13,1,3,9,High
+491,2016,57,Female,Married,Anesthesiology,32,4,5,6,Low
+492,2016,52,Female,Married,Obstetrics/Gynecology,27,5,6,5,Low
+493,2016,52,Male,Married,Surgery,27,3,5,7,High
+494,2016,51,Female,Married,Dermatology,26,6,7,3,Low
+495,2016,53,Female,Single,Radiology,28,4,5,6,Low
+496,2016,40,Female,Married,Pediatrics,15,3,5,7,High
+497,2016,49,Female,Divorced,Psychiatry,24,4,5,6,Low
+498,2016,47,Female,Married,Internal Medicine,22,5,6,5,Low
+499,2016,47,Female,Divorced,Family Medicine,22,4,5,6,Low
+500,2016,49,Male,Married,Cardiology,24,3,5,7,High
+501,2016,46,Male,Single,Neurology,21,4,5,5,Low
+502,2016,59,Male,Single,Emergency Medicine,34,1,3,8,High
+503,2016,52,Male,Single,Anesthesiology,27,3,5,6,Low
+504,2016,45,Male,Married,Obstetrics/Gynecology,20,3,5,6,Low
+505,2016,45,Female,Married,Surgery,20,2,4,8,High
+506,2016,53,Female,Single,Dermatology,28,5,6,4,Low
+507,2016,47,Female,Married,Radiology,22,6,7,3,Low
+508,2016,51,Male,Married,Pediatrics,26,4,6,5,Low
+509,2016,49,Male,Married,Psychiatry,24,6,7,4,Low
+510,2016,34,Female,Married,Internal Medicine,9,3,5,6,Low
+511,2016,37,Male,Single,Family Medicine,12,5,6,5,Low
+512,2016,57,Female,Married,Cardiology,32,3,5,7,High
+513,2016,44,Male,Single,Neurology,19,4,5,5,Low
+514,2016,47,Male,Divorced,Emergency Medicine,22,2,4,8,High
+515,2016,41,Male,Married,Anesthesiology,16,4,6,5,Low
+516,2016,41,Female,Married,Obstetrics/Gynecology,16,4,5,6,Low
+517,2016,31,Female,Divorced,Surgery,6,3,5,7,High
+518,2016,50,Female,Married,Dermatology,25,6,7,3,Low
+519,2016,62,Female,Married,Radiology,37,5,6,4,Low
+520,2016,45,Male,Single,Pediatrics,20,3,4,7,High
+521,2016,48,Female,Married,Psychiatry,23,5,6,4,Low
+522,2016,40,Male,Single,Internal Medicine,15,4,5,6,Low
+523,2016,39,Male,Married,Family Medicine,14,4,5,5,Low
+524,2016,46,Female,Married,Cardiology,21,3,5,7,High
+525,2016,50,Male,Single,Neurology,25,5,6,4,Low
+526,2016,37,Male,Married,Emergency Medicine,12,3,5,6,Low
+527,2016,41,Female,Divorced,Anesthesiology,16,5,6,4,Low
+528,2016,61,Female,Married,Obstetrics/Gynecology,36,3,5,7,High
+529,2016,54,Male,Single,Surgery,29,2,4,8,High
+530,2016,52,Male,Single,Dermatology,27,5,6,4,Low
+531,2016,46,Male,Married,Radiology,21,5,6,5,Low
+532,2016,55,Female,Divorced,Pediatrics,30,2,4,8,High
+533,2016,43,Male,Single,Psychiatry,18,6,7,3,Low
+534,2016,39,Female,Married,Internal Medicine,14,2,4,7,High
+535,2016,43,Male,Married,Family Medicine,18,3,5,6,Low
+536,2016,50,Male,Married,Cardiology,25,5,6,5,Low
+537,2016,49,Female,Divorced,Neurology,24,5,6,5,Low
+538,2016,45,Female,Married,Emergency Medicine,20,3,4,7,High
+539,2016,38,Male,Married,Anesthesiology,0,4,5,6,Low
+540,2016,50,Male,Married,Obstetrics/Gynecology,25,6,7,3,Low
+541,2016,34,Male,Married,Surgery,9,4,6,5,Low
+542,2016,50,Female,Married,Dermatology,25,6,7,3,Low
+543,2016,50,Female,Married,Radiology,25,4,5,5,Low
+544,2016,46,Male,Divorced,Pediatrics,21,2,4,7,High
+545,2016,52,Male,Married,Psychiatry,27,5,6,5,Low
+546,2016,48,Male,Married,Internal Medicine,23,4,5,5,Low
+547,2016,48,Female,Divorced,Family Medicine,23,4,5,6,Low
+548,2016,35,Male,Married,Cardiology,10,4,6,5,Low
+549,2016,54,Male,Married,Neurology,29,5,6,4,Low
+550,2016,47,Female,Married,Emergency Medicine,22,3,4,7,High
+551,2016,39,Male,Married,Anesthesiology,14,6,7,4,Low
+552,2016,51,Male,Divorced,Obstetrics/Gynecology,26,4,5,6,Low
+553,2016,42,Male,Married,Surgery,17,2,4,8,High
+554,2016,51,Male,Married,Dermatology,26,5,6,4,Low
+555,2016,50,Female,Married,Radiology,25,7,7,2,Low
+556,2016,39,Male,Married,Pediatrics,5,3,4,7,High
+557,2016,49,Female,Married,Psychiatry,24,6,7,3,Low
+558,2016,43,Female,Married,Internal Medicine,18,3,4,7,High
+559,2016,45,Female,Married,Family Medicine,20,5,6,5,Low
+560,2016,46,Female,Married,Cardiology,21,3,5,7,High
+561,2016,39,Male,Married,Neurology,14,5,6,4,Low
+562,2016,44,Male,Married,Emergency Medicine,19,1,3,8,High
+563,2016,35,Male,Married,Anesthesiology,3,4,5,6,Low
+564,2016,41,Female,Single,Obstetrics/Gynecology,16,3,4,7,High
+565,2016,55,Female,Married,Surgery,30,3,5,6,Low
+566,2016,33,Female,Married,Dermatology,8,5,6,5,Low
+567,2016,42,Male,Married,Radiology,17,5,6,4,Low
+568,2016,52,Male,Married,Pediatrics,27,3,4,7,High
+569,2016,51,Male,Married,Psychiatry,26,4,5,6,Low
+570,2016,48,Female,Married,Internal Medicine,23,2,4,7,High
+571,2016,47,Female,Single,Family Medicine,22,3,5,6,Low
+572,2016,51,Female,Married,Cardiology,26,3,5,7,High
+573,2016,45,Male,Single,Neurology,20,3,4,7,High
+574,2016,37,Male,Married,Emergency Medicine,0,3,5,6,Low
+575,2016,43,Male,Single,Anesthesiology,18,5,6,4,Low
+576,2016,51,Male,Married,Obstetrics/Gynecology,26,4,5,6,Low
+577,2016,43,Male,Married,Surgery,18,3,4,7,High
+578,2016,44,Male,Married,Dermatology,19,6,7,3,Low
+579,2016,41,Male,Married,Radiology,16,5,6,4,Low
+580,2016,37,Male,Married,Pediatrics,4,3,4,7,High
+581,2016,54,Male,Divorced,Psychiatry,29,5,6,5,Low
+582,2016,50,Male,Married,Internal Medicine,25,4,5,5,Low
+583,2016,44,Female,Married,Family Medicine,19,3,4,7,High
+584,2016,43,Female,Divorced,Cardiology,18,4,6,5,Low
+585,2016,39,Male,Single,Neurology,14,2,4,7,High
+586,2016,54,Male,Single,Emergency Medicine,29,4,5,6,Low
+587,2016,45,Female,Married,Anesthesiology,20,4,5,6,Low
+588,2016,48,Female,Married,Obstetrics/Gynecology,23,6,7,4,Low
+589,2016,49,Male,Married,Surgery,24,3,5,7,High
+590,2016,48,Male,Married,Dermatology,23,5,6,5,Low
+591,2016,45,Male,Married,Radiology,20,5,6,5,Low
+592,2016,44,Female,Single,Pediatrics,19,3,4,7,High
+593,2016,43,Male,Married,Psychiatry,18,4,6,5,Low
+594,2016,38,Male,Single,Internal Medicine,13,2,4,8,High
+595,2016,53,Male,Single,Family Medicine,28,5,6,4,Low
+596,2016,51,Female,Divorced,Cardiology,26,3,5,6,Low
+597,2016,43,Female,Married,Neurology,18,3,5,6,Low
+598,2016,32,Male,Divorced,Emergency Medicine,5,1,3,9,High
+599,2016,33,Female,Married,Anesthesiology,8,3,5,7,High
+600,2016,44,Male,Married,Obstetrics/Gynecology,19,4,6,5,Low
+601,2017,57,Female,Married,Dermatology,32,6,7,4,Low
+602,2017,43,Female,Married,Radiology,18,6,7,4,Low
+603,2017,41,Female,Single,Pediatrics,16,3,5,6,Low
+604,2017,48,Female,Married,Psychiatry,23,6,7,3,Low
+605,2017,40,Female,Single,Internal Medicine,15,3,5,7,High
+606,2017,44,Male,Married,Family Medicine,19,4,5,6,Low
+607,2017,48,Female,Married,Cardiology,23,3,5,7,High
+608,2017,56,Male,Married,Neurology,31,4,5,6,Low
+609,2017,43,Male,Single,Emergency Medicine,18,1,3,9,High
+610,2017,45,Female,Married,Anesthesiology,20,5,6,4,Low
+611,2017,47,Female,Married,Obstetrics/Gynecology,22,4,5,6,Low
+612,2017,39,Male,Married,Surgery,14,3,5,7,High
+613,2017,39,Male,Married,Dermatology,14,5,6,4,Low
+614,2017,44,Female,Married,Radiology,19,7,7,3,Low
+615,2017,47,Male,Married,Pediatrics,22,4,6,5,Low
+616,2017,30,Female,Married,Psychiatry,5,4,5,6,Low
+617,2017,46,Male,Married,Internal Medicine,21,5,6,5,Low
+618,2017,43,Male,Married,Family Medicine,18,6,7,4,Low
+619,2017,38,Female,Single,Cardiology,13,5,6,5,Low
+620,2017,44,Male,Single,Neurology,19,2,4,8,High
+621,2017,41,Female,Divorced,Emergency Medicine,16,1,3,9,High
+622,2017,40,Female,Single,Anesthesiology,15,4,5,6,Low
+623,2017,48,Male,Married,Obstetrics/Gynecology,23,6,7,3,Low
+624,2017,34,Male,Divorced,Surgery,9,2,4,8,High
+625,2017,44,Female,Married,Dermatology,19,4,5,6,Low
+626,2017,41,Female,Married,Radiology,16,7,7,3,Low
+627,2017,39,Female,Married,Pediatrics,14,3,5,7,High
+628,2017,44,Male,Single,Psychiatry,19,3,5,6,Low
+629,2017,38,Male,Married,Internal Medicine,13,4,5,6,Low
+630,2017,42,Female,Married,Family Medicine,17,3,5,7,High
+631,2017,32,Male,Married,Cardiology,7,3,5,6,Low
+632,2017,48,Male,Married,Neurology,23,3,4,7,High
+633,2017,37,Male,Married,Emergency Medicine,3,2,4,7,High
+634,2017,51,Male,Single,Anesthesiology,26,4,5,6,Low
+635,2017,40,Male,Divorced,Obstetrics/Gynecology,15,4,5,6,Low
+636,2017,34,Male,Married,Surgery,9,2,4,7,High
+637,2017,35,Female,Married,Dermatology,0,5,6,4,Low
+638,2017,52,Female,Married,Radiology,27,6,7,4,Low
+639,2017,36,Female,Married,Pediatrics,11,2,4,7,High
+640,2017,49,Female,Married,Psychiatry,24,3,5,6,Low
+641,2017,49,Male,Single,Internal Medicine,24,2,4,8,High
+642,2017,48,Female,Married,Family Medicine,23,4,5,6,Low
+643,2017,47,Female,Married,Cardiology,22,4,6,5,Low
+644,2017,47,Male,Married,Neurology,22,4,5,6,Low
+645,2017,44,Male,Single,Emergency Medicine,19,2,4,8,High
+646,2017,33,Female,Divorced,Anesthesiology,8,3,5,6,Low
+647,2017,50,Male,Married,Obstetrics/Gynecology,25,3,5,6,Low
+648,2017,48,Female,Married,Surgery,23,4,6,5,Low
+649,2017,40,Male,Married,Dermatology,15,6,7,3,Low
+650,2017,38,Male,Married,Radiology,13,5,6,5,Low
+651,2017,54,Female,Married,Pediatrics,29,5,6,5,Low
+652,2017,39,Female,Single,Psychiatry,14,4,5,6,Low
+653,2017,40,Male,Single,Internal Medicine,15,3,4,7,High
+654,2017,53,Male,Married,Family Medicine,28,4,5,6,Low
+655,2017,42,Male,Married,Cardiology,17,3,5,7,High
+656,2017,37,Female,Married,Neurology,12,5,6,5,Low
+657,2017,53,Female,Single,Emergency Medicine,28,3,5,7,High
+658,2017,43,Male,Married,Anesthesiology,18,6,7,4,Low
+659,2017,45,Male,Married,Obstetrics/Gynecology,20,4,6,5,Low
+660,2017,50,Female,Married,Surgery,25,2,4,7,High
+661,2017,46,Female,Divorced,Dermatology,21,6,7,4,Low
+662,2017,53,Female,Divorced,Radiology,28,4,5,6,Low
+663,2017,34,Female,Married,Pediatrics,9,4,6,5,Low
+664,2017,36,Male,Married,Psychiatry,11,6,7,4,Low
+665,2017,53,Male,Married,Internal Medicine,28,2,4,8,High
+666,2017,46,Male,Married,Family Medicine,21,4,5,6,Low
+667,2017,44,Male,Married,Cardiology,19,3,5,7,High
+668,2017,37,Male,Married,Neurology,12,3,5,7,High
+669,2017,49,Male,Married,Emergency Medicine,24,4,5,6,Low
+670,2017,37,Female,Divorced,Anesthesiology,12,4,5,6,Low
+671,2017,47,Female,Married,Obstetrics/Gynecology,22,3,5,7,High
+672,2017,46,Male,Single,Surgery,21,2,4,7,High
+673,2017,43,Female,Married,Dermatology,18,5,6,5,Low
+674,2017,38,Female,Married,Radiology,13,4,5,6,Low
+675,2017,32,Male,Married,Pediatrics,7,5,6,5,Low
+676,2017,51,Male,Married,Psychiatry,26,5,6,5,Low
+677,2017,45,Female,Single,Internal Medicine,20,3,5,7,High
+678,2017,36,Male,Divorced,Family Medicine,1,2,4,7,High
+679,2017,35,Male,Married,Cardiology,3,4,5,6,Low
+680,2017,44,Female,Married,Neurology,19,3,4,7,High
+681,2017,46,Male,Divorced,Emergency Medicine,21,3,5,7,High
+682,2017,49,Male,Married,Anesthesiology,24,4,5,6,Low
+683,2017,52,Male,Single,Obstetrics/Gynecology,27,6,7,4,Low
+684,2017,52,Female,Single,Surgery,27,4,5,6,Low
+685,2017,45,Female,Married,Dermatology,20,4,5,6,Low
+686,2017,50,Female,Divorced,Radiology,25,4,6,5,Low
+687,2017,42,Female,Married,Pediatrics,17,5,6,5,Low
+688,2017,42,Male,Married,Psychiatry,17,7,7,3,Low
+689,2017,51,Male,Married,Internal Medicine,26,4,5,6,Low
+690,2017,40,Female,Married,Family Medicine,15,3,5,7,High
+691,2017,49,Male,Married,Cardiology,24,3,5,6,Low
+692,2017,56,Female,Married,Neurology,31,3,4,7,High
+693,2017,51,Male,Single,Emergency Medicine,26,3,4,7,High
+694,2017,48,Female,Married,Anesthesiology,23,6,7,3,Low
+695,2017,52,Male,Married,Obstetrics/Gynecology,27,4,6,5,Low
+696,2017,42,Female,Married,Surgery,17,2,4,7,High
+697,2017,44,Female,Married,Dermatology,19,6,7,4,Low
+698,2017,48,Female,Married,Radiology,23,5,6,5,Low
+699,2017,30,Male,Married,Pediatrics,5,5,6,5,Low
+700,2017,45,Male,Single,Psychiatry,20,3,5,6,Low
+701,2017,46,Female,Single,Internal Medicine,21,2,4,8,High
+702,2017,44,Female,Married,Family Medicine,19,5,6,5,Low
+703,2017,33,Female,Married,Cardiology,8,4,5,6,Low
+704,2017,49,Male,Married,Neurology,24,3,5,7,High
+705,2017,36,Male,Married,Emergency Medicine,11,2,4,8,High
+706,2017,37,Male,Single,Anesthesiology,12,5,6,4,Low
+707,2017,40,Female,Married,Obstetrics/Gynecology,15,3,5,6,Low
+708,2017,40,Male,Married,Surgery,15,2,4,7,High
+709,2017,36,Female,Single,Dermatology,11,3,4,7,High
+710,2017,42,Male,Married,Radiology,17,6,7,3,Low
+711,2017,55,Female,Married,Pediatrics,30,4,5,6,Low
+712,2017,46,Male,Married,Psychiatry,21,6,7,4,Low
+713,2017,49,Male,Single,Internal Medicine,24,2,4,8,High
+714,2017,51,Female,Married,Family Medicine,26,5,6,4,Low
+715,2017,45,Female,Divorced,Cardiology,20,5,6,4,Low
+716,2017,46,Male,Married,Neurology,21,3,4,7,High
+717,2017,47,Male,Married,Emergency Medicine,22,3,5,7,High
+718,2017,50,Male,Married,Anesthesiology,25,4,5,6,Low
+719,2017,42,Male,Married,Obstetrics/Gynecology,17,4,6,5,Low
+720,2017,43,Male,Single,Surgery,18,2,4,7,High
+721,2017,44,Female,Married,Dermatology,19,4,5,6,Low
+722,2017,41,Male,Divorced,Radiology,16,4,6,5,Low
+723,2017,42,Female,Married,Pediatrics,17,2,4,8,High
+724,2017,42,Female,Married,Psychiatry,17,4,6,5,Low
+725,2017,44,Female,Married,Internal Medicine,19,4,5,6,Low
+726,2017,49,Female,Single,Family Medicine,24,3,4,7,High
+727,2017,51,Male,Married,Cardiology,26,5,6,5,Low
+728,2017,44,Male,Single,Neurology,19,3,5,7,High
+729,2017,40,Male,Married,Emergency Medicine,15,2,4,8,High
+730,2017,44,Female,Married,Anesthesiology,19,5,6,4,Low
+731,2017,46,Female,Married,Obstetrics/Gynecology,21,6,7,4,Low
+732,2017,44,Male,Married,Surgery,19,3,5,7,High
+733,2017,47,Male,Divorced,Dermatology,22,6,7,3,Low
+734,2017,52,Female,Married,Radiology,27,7,7,3,Low
+735,2017,46,Male,Single,Pediatrics,21,2,4,7,High
+736,2017,35,Male,Married,Psychiatry,10,3,5,6,Low
+737,2017,47,Female,Married,Internal Medicine,22,3,4,7,High
+738,2017,58,Female,Married,Family Medicine,33,5,6,4,Low
+739,2017,42,Male,Married,Cardiology,17,6,7,4,Low
+740,2017,57,Male,Married,Neurology,32,4,5,6,Low
+741,2017,33,Male,Married,Emergency Medicine,8,4,5,6,Low
+742,2017,49,Male,Single,Anesthesiology,24,4,6,5,Low
+743,2017,47,Female,Married,Obstetrics/Gynecology,22,4,5,6,Low
+744,2017,49,Male,Single,Surgery,24,4,6,5,Low
+745,2017,43,Male,Divorced,Dermatology,18,4,5,6,Low
+746,2017,35,Male,Single,Radiology,10,6,7,3,Low
+747,2017,40,Female,Married,Pediatrics,15,5,6,5,Low
+748,2017,56,Male,Divorced,Psychiatry,31,5,6,5,Low
+749,2017,55,Male,Married,Internal Medicine,30,5,6,5,Low
+750,2017,48,Male,Married,Family Medicine,23,4,5,6,Low
+751,2017,42,Male,Single,Cardiology,17,3,5,6,Low
+752,2017,33,Female,Married,Neurology,8,3,4,7,High
+753,2017,48,Male,Single,Emergency Medicine,23,1,3,9,High
+754,2017,45,Female,Married,Anesthesiology,20,4,6,5,Low
+755,2017,39,Male,Married,Obstetrics/Gynecology,14,4,6,5,Low
+756,2017,43,Female,Divorced,Surgery,18,3,5,6,Low
+757,2017,37,Male,Married,Dermatology,12,5,6,4,Low
+758,2017,47,Male,Single,Radiology,22,5,6,5,Low
+759,2017,45,Female,Married,Pediatrics,20,2,4,8,High
+760,2017,58,Male,Married,Psychiatry,33,7,7,3,Low
+761,2017,52,Female,Married,Internal Medicine,27,3,4,7,High
+762,2017,43,Female,Married,Family Medicine,18,5,6,5,Low
+763,2017,46,Female,Single,Cardiology,21,3,5,7,High
+764,2017,49,Male,Married,Neurology,24,3,5,7,High
+765,2017,44,Male,Married,Emergency Medicine,19,2,4,8,High
+766,2017,31,Male,Married,Anesthesiology,6,4,5,6,Low
+767,2017,41,Male,Married,Obstetrics/Gynecology,16,6,7,3,Low
+768,2017,50,Male,Married,Surgery,25,5,6,5,Low
+769,2017,39,Male,Married,Dermatology,14,5,6,5,Low
+770,2017,42,Male,Married,Radiology,17,5,6,4,Low
+771,2017,36,Male,Married,Pediatrics,4,2,4,8,High
+772,2017,48,Male,Single,Psychiatry,23,6,7,3,Low
+773,2017,43,Male,Married,Internal Medicine,18,4,5,6,Low
+774,2017,51,Female,Married,Family Medicine,26,5,6,4,Low
+775,2017,45,Male,Married,Cardiology,20,5,6,5,Low
+776,2017,41,Female,Married,Neurology,16,3,4,7,High
+777,2017,47,Male,Divorced,Emergency Medicine,22,1,3,9,High
+778,2017,39,Female,Married,Anesthesiology,14,5,6,4,Low
+779,2017,46,Male,Divorced,Obstetrics/Gynecology,21,4,6,5,Low
+780,2017,49,Male,Married,Surgery,24,2,4,8,High
+781,2017,47,Male,Married,Dermatology,22,5,6,5,Low
+782,2017,45,Male,Married,Radiology,20,5,6,5,Low
+783,2017,30,Female,Single,Pediatrics,5,4,5,6,Low
+784,2017,45,Female,Married,Psychiatry,20,4,5,6,Low
+785,2017,47,Female,Married,Internal Medicine,22,4,5,6,Low
+786,2017,48,Female,Married,Family Medicine,23,3,4,7,High
+787,2017,39,Male,Married,Cardiology,14,3,5,7,High
+788,2017,44,Female,Divorced,Neurology,19,2,4,8,High
+789,2017,50,Male,Single,Emergency Medicine,25,1,3,9,High
+790,2017,51,Female,Married,Anesthesiology,26,5,6,4,Low
+791,2017,51,Male,Married,Obstetrics/Gynecology,26,4,5,6,Low
+792,2017,49,Male,Married,Surgery,24,2,4,8,High
+793,2017,46,Female,Divorced,Dermatology,21,4,5,6,Low
+794,2017,45,Male,Married,Radiology,20,5,6,4,Low
+795,2017,46,Female,Married,Pediatrics,21,4,5,6,Low
+796,2017,37,Female,Married,Psychiatry,12,3,5,6,Low
+797,2017,47,Female,Married,Internal Medicine,22,3,4,7,High
+798,2017,47,Female,Single,Family Medicine,22,5,6,5,Low
+799,2017,51,Male,Married,Cardiology,26,3,5,7,High
+800,2017,46,Female,Married,Neurology,21,5,6,5,Low
+801,2018,61,Male,Married,Psychiatry,36,6,7,4,Low
+802,2018,29,Male,Married,Internal Medicine,4,2,4,8,High
+803,2018,42,Male,Married,Family Medicine,17,4,5,6,Low
+804,2018,51,Female,Single,Cardiology,26,2,4,8,High
+805,2018,37,Male,Single,Neurology,12,2,4,8,High
+806,2018,54,Male,Single,Emergency Medicine,29,4,5,6,Low
+807,2018,39,Male,Married,Anesthesiology,14,4,6,5,Low
+808,2018,32,Male,Married,Obstetrics/Gynecology,7,3,5,6,Low
+809,2018,52,Female,Married,Surgery,27,2,4,7,High
+810,2018,37,Male,Divorced,Dermatology,12,3,5,6,Low
+811,2018,42,Male,Married,Radiology,17,5,6,5,Low
+812,2018,34,Female,Single,Pediatrics,9,2,4,8,High
+813,2018,41,Male,Married,Psychiatry,16,4,5,6,Low
+814,2018,49,Female,Married,Internal Medicine,24,3,4,7,High
+815,2018,47,Male,Married,Family Medicine,22,6,7,4,Low
+816,2018,34,Male,Married,Cardiology,9,5,6,4,Low
+817,2018,48,Male,Divorced,Neurology,23,5,6,4,Low
+818,2018,46,Female,Single,Emergency Medicine,21,2,4,8,High
+819,2018,36,Male,Divorced,Anesthesiology,11,4,5,6,Low
+820,2018,38,Male,Married,Obstetrics/Gynecology,13,5,6,4,Low
+821,2018,51,Female,Married,Surgery,26,4,6,5,Low
+822,2018,47,Female,Married,Dermatology,22,6,7,4,Low
+823,2018,43,Male,Married,Radiology,18,5,6,4,Low
+824,2018,41,Female,Married,Pediatrics,16,2,4,8,High
+825,2018,38,Male,Single,Psychiatry,13,6,7,3,Low
+826,2018,49,Male,Married,Internal Medicine,24,3,5,7,High
+827,2018,48,Male,Married,Family Medicine,23,3,5,7,High
+828,2018,47,Female,Single,Cardiology,22,2,4,8,High
+829,2018,41,Female,Divorced,Neurology,16,3,4,7,High
+830,2018,41,Male,Single,Emergency Medicine,16,2,4,8,High
+831,2018,41,Male,Married,Anesthesiology,16,4,6,5,Low
+832,2018,52,Female,Married,Obstetrics/Gynecology,27,6,7,4,Low
+833,2018,52,Female,Divorced,Surgery,27,2,4,8,High
+834,2018,57,Male,Married,Dermatology,32,6,7,3,Low
+835,2018,42,Female,Single,Radiology,17,4,6,5,Low
+836,2018,47,Female,Married,Pediatrics,22,3,5,7,High
+837,2018,32,Male,Married,Psychiatry,7,5,6,4,Low
+838,2018,50,Male,Married,Internal Medicine,25,3,4,7,High
+839,2018,31,Female,Married,Family Medicine,6,2,4,8,High
+840,2018,44,Female,Married,Cardiology,19,2,4,7,High
+841,2018,44,Male,Married,Neurology,19,5,6,4,Low
+842,2018,37,Male,Married,Emergency Medicine,1,1,3,9,High
+843,2018,61,Male,Married,Anesthesiology,36,4,5,6,Low
+844,2018,53,Male,Single,Obstetrics/Gynecology,28,5,6,5,Low
+845,2018,51,Male,Married,Surgery,26,2,4,8,High
+846,2018,47,Female,Married,Dermatology,22,4,5,6,Low
+847,2018,41,Female,Married,Radiology,16,7,7,3,Low
+848,2018,51,Female,Married,Pediatrics,26,2,4,7,High
+849,2018,51,Male,Married,Psychiatry,26,7,7,3,Low
+850,2018,48,Male,Married,Internal Medicine,23,2,4,8,High
+851,2018,40,Female,Single,Family Medicine,15,4,5,6,Low
+852,2018,58,Male,Married,Cardiology,33,5,6,5,Low
+853,2018,42,Male,Divorced,Neurology,17,3,5,6,Low
+854,2018,44,Male,Married,Emergency Medicine,19,1,3,9,High
+855,2018,37,Male,Single,Anesthesiology,12,4,6,5,Low
+856,2018,47,Male,Single,Obstetrics/Gynecology,22,5,6,5,Low
+857,2018,40,Male,Married,Surgery,15,2,4,7,High
+858,2018,50,Male,Single,Dermatology,25,3,5,7,High
+859,2018,31,Male,Married,Radiology,6,4,5,6,Low
+860,2018,31,Male,Married,Pediatrics,6,5,6,5,Low
+861,2018,45,Female,Married,Psychiatry,20,4,5,6,Low
+862,2018,36,Female,Married,Internal Medicine,11,2,4,8,High
+863,2018,38,Female,Divorced,Family Medicine,13,3,5,6,Low
+864,2018,54,Female,Married,Cardiology,29,2,4,7,High
+865,2018,40,Male,Divorced,Neurology,15,4,6,5,Low
+866,2018,38,Male,Single,Emergency Medicine,13,4,5,6,Low
+867,2018,35,Male,Married,Anesthesiology,10,6,7,3,Low
+868,2018,50,Male,Single,Obstetrics/Gynecology,25,3,5,6,Low
+869,2018,38,Male,Married,Surgery,13,4,5,6,Low
+870,2018,45,Male,Married,Dermatology,20,4,5,6,Low
+871,2018,38,Male,Single,Radiology,13,4,5,6,Low
+872,2018,39,Male,Divorced,Pediatrics,14,3,5,6,Low
+873,2018,47,Female,Married,Psychiatry,22,5,6,4,Low
+874,2018,42,Male,Married,Internal Medicine,17,4,5,6,Low
+875,2018,42,Female,Married,Family Medicine,17,4,6,5,Low
+876,2018,41,Female,Married,Cardiology,16,2,4,7,High
+877,2018,39,Male,Married,Neurology,5,3,5,7,High
+878,2018,49,Male,Married,Emergency Medicine,24,1,3,9,High
+879,2018,38,Female,Single,Anesthesiology,13,3,5,7,High
+880,2018,28,Female,Married,Obstetrics/Gynecology,5,3,5,6,Low
+881,2018,41,Female,Divorced,Surgery,16,3,5,6,Low
+882,2018,37,Male,Married,Dermatology,12,4,5,6,Low
+883,2018,45,Male,Married,Radiology,20,4,6,5,Low
+884,2018,45,Male,Divorced,Pediatrics,20,5,6,4,Low
+885,2018,40,Female,Married,Psychiatry,15,5,6,4,Low
+886,2018,56,Male,Married,Internal Medicine,31,4,5,6,Low
+887,2018,62,Male,Married,Family Medicine,37,4,5,6,Low
+888,2018,51,Male,Married,Cardiology,26,6,7,4,Low
+889,2018,39,Male,Married,Neurology,14,4,6,5,Low
+890,2018,44,Male,Married,Emergency Medicine,19,3,5,7,High
+891,2018,47,Female,Married,Anesthesiology,22,4,5,6,Low
+892,2018,30,Male,Married,Obstetrics/Gynecology,5,3,5,7,High
+893,2018,49,Male,Married,Surgery,24,5,6,5,Low
+894,2018,44,Male,Married,Dermatology,19,5,6,4,Low
+895,2018,54,Male,Married,Radiology,29,5,6,5,Low
+896,2018,64,Male,Single,Pediatrics,39,2,4,7,High
+897,2018,57,Male,Married,Psychiatry,32,5,6,5,Low
+898,2018,38,Male,Married,Internal Medicine,13,2,4,8,High
+899,2018,44,Female,Married,Family Medicine,19,4,6,5,Low
+900,2018,48,Male,Married,Cardiology,23,3,5,7,High
+901,2018,51,Female,Married,Neurology,26,2,4,8,High
+902,2018,32,Male,Married,Emergency Medicine,7,3,4,7,High
+903,2018,45,Male,Single,Anesthesiology,20,3,5,6,Low
+904,2018,36,Female,Married,Obstetrics/Gynecology,11,4,5,6,Low
+905,2018,41,Female,Married,Surgery,16,3,5,6,Low
+906,2018,46,Male,Married,Dermatology,21,4,5,6,Low
+907,2018,48,Male,Married,Radiology,23,6,7,3,Low
+908,2018,47,Female,Married,Pediatrics,22,3,5,7,High
+909,2018,44,Male,Single,Psychiatry,19,4,5,6,Low
+910,2018,43,Male,Married,Internal Medicine,18,3,4,7,High
+911,2018,56,Female,Married,Family Medicine,31,3,5,7,High
+912,2018,44,Female,Single,Cardiology,19,2,4,8,High
+913,2018,50,Male,Married,Neurology,25,3,4,7,High
+914,2018,47,Female,Single,Emergency Medicine,22,3,5,7,High
+915,2018,51,Female,Married,Anesthesiology,26,6,7,3,Low
+916,2018,48,Male,Married,Obstetrics/Gynecology,23,3,5,6,Low
+917,2018,38,Male,Single,Surgery,13,4,6,5,Low
+918,2018,53,Female,Single,Dermatology,28,4,6,5,Low
+919,2018,43,Male,Single,Radiology,18,6,7,4,Low
+920,2018,41,Female,Divorced,Pediatrics,16,3,5,7,High
+921,2018,40,Male,Married,Psychiatry,15,4,5,6,Low
+922,2018,49,Female,Divorced,Internal Medicine,24,3,5,6,Low
+923,2018,27,Female,Married,Family Medicine,2,2,4,7,High
+924,2018,57,Female,Divorced,Cardiology,32,2,4,7,High
+925,2018,41,Male,Single,Neurology,16,3,5,7,High
+926,2018,44,Male,Married,Emergency Medicine,19,4,5,6,Low
+927,2018,34,Male,Married,Anesthesiology,9,4,6,5,Low
+928,2018,39,Male,Married,Obstetrics/Gynecology,14,3,5,6,Low
+929,2018,55,Male,Married,Surgery,30,3,5,7,High
+930,2018,35,Male,Married,Dermatology,3,3,5,7,High
+931,2018,51,Male,Divorced,Radiology,26,5,6,5,Low
+932,2018,48,Male,Married,Pediatrics,23,3,5,7,High
+933,2018,46,Female,Married,Psychiatry,21,6,7,3,Low
+934,2018,39,Female,Married,Internal Medicine,14,2,4,8,High
+935,2018,45,Male,Single,Family Medicine,20,3,5,7,High
+936,2018,38,Female,Married,Cardiology,13,2,4,7,High
+937,2018,46,Female,Single,Neurology,21,3,4,7,High
+938,2018,44,Male,Married,Emergency Medicine,19,2,4,8,High
+939,2018,52,Male,Divorced,Anesthesiology,27,5,6,5,Low
+940,2018,43,Male,Married,Obstetrics/Gynecology,18,4,6,5,Low
+941,2018,48,Female,Married,Surgery,23,2,4,8,High
+942,2018,49,Female,Married,Dermatology,24,4,5,6,Low
+943,2018,49,Male,Married,Radiology,24,7,8,2,Low
+944,2018,43,Male,Married,Pediatrics,18,2,4,7,High
+945,2018,38,Male,Married,Psychiatry,13,5,6,5,Low
+946,2018,41,Female,Married,Internal Medicine,16,4,5,6,Low
+947,2018,42,Female,Married,Family Medicine,17,3,5,7,High
+948,2018,43,Male,Married,Cardiology,18,5,6,5,Low
+949,2018,41,Female,Single,Neurology,16,4,6,5,Low
+950,2018,38,Male,Married,Emergency Medicine,13,2,4,8,High
+951,2018,40,Male,Married,Anesthesiology,15,4,6,5,Low
+952,2018,36,Female,Single,Obstetrics/Gynecology,11,3,5,7,High
+953,2018,42,Male,Married,Surgery,17,2,4,8,High
+954,2018,38,Female,Married,Dermatology,13,3,5,7,High
+955,2018,41,Male,Divorced,Radiology,16,7,8,2,Low
+956,2018,53,Male,Divorced,Pediatrics,28,3,5,6,Low
+957,2018,46,Male,Married,Psychiatry,21,4,6,5,Low
+958,2018,42,Female,Divorced,Internal Medicine,17,3,5,6,Low
+959,2018,52,Female,Married,Family Medicine,27,4,6,5,Low
+960,2018,52,Male,Married,Cardiology,27,6,7,4,Low
+961,2018,50,Male,Married,Neurology,25,5,6,4,Low
+962,2018,42,Female,Married,Emergency Medicine,17,1,3,9,High
+963,2018,51,Female,Divorced,Anesthesiology,26,5,6,4,Low
+964,2018,58,Female,Married,Obstetrics/Gynecology,33,4,5,6,Low
+965,2018,40,Female,Married,Surgery,15,4,6,5,Low
+966,2018,48,Female,Married,Dermatology,23,3,5,7,High
+967,2018,58,Male,Married,Radiology,33,6,7,3,Low
+968,2018,34,Male,Married,Pediatrics,9,3,5,7,High
+969,2018,51,Male,Married,Psychiatry,26,4,6,5,Low
+970,2018,30,Male,Single,Internal Medicine,5,2,4,8,High
+971,2018,45,Male,Divorced,Family Medicine,20,3,5,7,High
+972,2018,39,Male,Married,Cardiology,14,3,5,6,Low
+973,2018,35,Male,Married,Neurology,1,2,4,7,High
+974,2018,38,Female,Married,Emergency Medicine,0,1,3,9,High
+975,2018,48,Female,Married,Anesthesiology,23,4,5,6,Low
+976,2018,40,Female,Married,Obstetrics/Gynecology,15,4,5,6,Low
+977,2018,38,Male,Married,Surgery,4,4,5,6,Low
+978,2018,39,Male,Married,Dermatology,14,4,5,6,Low
+979,2018,48,Female,Single,Radiology,23,5,6,4,Low
+980,2018,38,Female,Married,Pediatrics,13,4,5,6,Low
+981,2018,49,Male,Married,Psychiatry,24,4,6,5,Low
+982,2018,38,Female,Married,Internal Medicine,13,3,4,7,High
+983,2018,34,Female,Single,Family Medicine,9,4,6,5,Low
+984,2018,49,Male,Married,Cardiology,24,4,5,6,Low
+985,2018,36,Female,Single,Neurology,2,3,5,7,High
+986,2018,47,Male,Married,Emergency Medicine,22,2,4,8,High
+987,2018,50,Male,Married,Anesthesiology,25,4,6,5,Low
+988,2018,46,Female,Married,Obstetrics/Gynecology,21,3,5,7,High
+989,2018,43,Female,Married,Surgery,18,3,5,6,Low
+990,2018,44,Female,Married,Dermatology,19,3,5,7,High
+991,2018,56,Female,Married,Radiology,31,6,7,4,Low
+992,2018,44,Male,Married,Pediatrics,19,3,5,6,Low
+993,2018,47,Female,Married,Psychiatry,22,3,5,6,Low
+994,2018,44,Female,Divorced,Internal Medicine,19,3,4,7,High
+995,2018,50,Male,Divorced,Family Medicine,25,5,6,5,Low
+996,2018,47,Male,Single,Cardiology,22,3,5,6,Low
+997,2018,45,Female,Married,Neurology,20,2,4,8,High
+998,2018,42,Female,Single,Emergency Medicine,17,1,3,9,High
+999,2018,51,Male,Married,Anesthesiology,26,6,7,4,Low
+1000,2018,45,Male,Married,Obstetrics/Gynecology,20,6,7,3,Low
+1001,2019,39,Female,Married,Psychiatry,14,3,5,7,High
+1002,2019,49,Male,Married,Internal Medicine,24,2,4,8,High
+1003,2019,40,Female,Married,Family Medicine,15,3,5,7,High
+1004,2019,50,Female,Married,Cardiology,25,4,5,6,Low
+1005,2019,49,Male,Married,Neurology,24,5,6,5,Low
+1006,2019,30,Male,Divorced,Emergency Medicine,5,2,4,8,High
+1007,2019,50,Male,Divorced,Anesthesiology,25,5,6,5,Low
+1008,2019,44,Male,Married,Obstetrics/Gynecology,19,3,4,7,High
+1009,2019,46,Female,Single,Surgery,21,1,3,9,High
+1010,2019,32,Female,Married,Dermatology,7,2,4,8,High
+1011,2019,36,Female,Single,Radiology,11,3,5,6,Low
+1012,2019,46,Male,Single,Pediatrics,21,2,4,8,High
+1013,2019,57,Female,Single,Psychiatry,32,3,4,7,High
+1014,2019,41,Female,Married,Internal Medicine,16,4,5,6,Low
+1015,2019,39,Male,Divorced,Family Medicine,2,3,4,7,High
+1016,2019,41,Female,Divorced,Cardiology,16,4,5,6,Low
+1017,2019,48,Male,Married,Neurology,23,2,4,8,High
+1018,2019,42,Female,Married,Emergency Medicine,17,3,5,7,High
+1019,2019,40,Female,Married,Anesthesiology,15,3,4,7,High
+1020,2019,51,Male,Married,Obstetrics/Gynecology,26,4,5,6,Low
+1021,2019,50,Female,Single,Surgery,25,2,4,8,High
+1022,2019,39,Female,Married,Dermatology,14,3,5,6,Low
+1023,2019,44,Female,Married,Radiology,19,6,7,3,Low
+1024,2019,58,Female,Married,Pediatrics,33,4,5,6,Low
+1025,2019,59,Female,Single,Psychiatry,34,2,4,8,High
+1026,2019,31,Male,Married,Internal Medicine,6,3,5,7,High
+1027,2019,58,Female,Married,Family Medicine,33,3,4,7,High
+1028,2019,37,Male,Married,Cardiology,12,3,4,7,High
+1029,2019,38,Male,Single,Neurology,13,3,4,7,High
+1030,2019,34,Male,Married,Emergency Medicine,4,2,4,8,High
+1031,2019,40,Male,Married,Anesthesiology,15,3,5,7,High
+1032,2019,45,Female,Married,Obstetrics/Gynecology,20,5,6,5,Low
+1033,2019,50,Male,Married,Surgery,25,2,4,8,High
+1034,2019,35,Male,Married,Dermatology,10,3,4,7,High
+1035,2019,40,Male,Married,Radiology,15,5,6,5,Low
+1036,2019,35,Female,Married,Pediatrics,10,3,4,7,High
+1037,2019,41,Female,Married,Psychiatry,16,5,6,5,Low
+1038,2019,28,Female,Single,Internal Medicine,3,3,4,7,High
+1039,2019,59,Female,Married,Family Medicine,34,3,5,7,High
+1040,2019,39,Male,Single,Cardiology,14,3,4,7,High
+1041,2019,45,Male,Married,Neurology,20,3,4,7,High
+1042,2019,38,Female,Married,Emergency Medicine,13,0,3,10,High
+1043,2019,47,Male,Married,Anesthesiology,22,6,7,3,Low
+1044,2019,42,Female,Married,Obstetrics/Gynecology,17,4,5,6,Low
+1045,2019,44,Male,Married,Surgery,19,3,5,7,High
+1046,2019,48,Female,Married,Dermatology,23,5,6,4,Low
+1047,2019,46,Male,Married,Radiology,21,4,6,5,Low
+1048,2019,37,Male,Married,Pediatrics,12,2,4,8,High
+1049,2019,35,Male,Married,Psychiatry,10,3,5,7,High
+1050,2019,35,Male,Married,Internal Medicine,2,1,3,9,High
+1051,2019,47,Female,Married,Family Medicine,22,4,5,6,Low
+1052,2019,48,Male,Married,Cardiology,23,3,5,7,High
+1053,2019,31,Male,Married,Neurology,6,2,4,8,High
+1054,2019,38,Female,Married,Emergency Medicine,13,3,5,7,High
+1055,2019,46,Male,Married,Anesthesiology,21,3,5,7,High
+1056,2019,47,Male,Married,Obstetrics/Gynecology,22,5,6,4,Low
+1057,2019,64,Female,Divorced,Surgery,39,1,3,9,High
+1058,2019,37,Male,Married,Dermatology,12,3,5,7,High
+1059,2019,40,Male,Married,Radiology,15,4,5,6,Low
+1060,2019,47,Male,Married,Pediatrics,22,3,4,7,High
+1061,2019,48,Female,Married,Psychiatry,23,5,6,5,Low
+1062,2019,54,Female,Married,Internal Medicine,29,1,3,9,High
+1063,2019,47,Male,Married,Family Medicine,22,3,4,7,High
+1064,2019,43,Male,Single,Cardiology,18,5,6,5,Low
+1065,2019,58,Female,Divorced,Neurology,33,3,5,6,Low
+1066,2019,38,Female,Married,Emergency Medicine,0,0,3,10,High
+1067,2019,35,Female,Married,Anesthesiology,10,2,4,8,High
+1068,2019,36,Female,Single,Obstetrics/Gynecology,0,2,4,8,High
+1069,2019,40,Male,Single,Surgery,15,1,3,9,High
+1070,2019,58,Male,Single,Dermatology,33,3,5,6,Low
+1071,2019,52,Male,Married,Radiology,27,6,7,4,Low
+1072,2019,50,Female,Married,Pediatrics,25,3,5,7,High
+1073,2019,47,Female,Married,Psychiatry,22,4,5,6,Low
+1074,2019,58,Female,Married,Internal Medicine,33,2,4,8,High
+1075,2019,49,Male,Married,Family Medicine,24,4,6,5,Low
+1076,2019,40,Female,Divorced,Cardiology,15,4,6,5,Low
+1077,2019,39,Male,Married,Neurology,14,3,4,7,High
+1078,2019,53,Male,Married,Emergency Medicine,28,3,4,7,High
+1079,2019,35,Female,Single,Anesthesiology,1,2,4,8,High
+1080,2019,35,Female,Single,Obstetrics/Gynecology,10,3,5,7,High
+1081,2019,39,Female,Married,Surgery,0,1,3,9,High
+1082,2019,44,Female,Single,Dermatology,19,4,5,6,Low
+1083,2019,45,Male,Divorced,Radiology,20,6,7,4,Low
+1084,2019,37,Female,Married,Pediatrics,12,3,5,7,High
+1085,2019,38,Male,Married,Psychiatry,13,6,7,3,Low
+1086,2019,46,Male,Married,Internal Medicine,21,2,4,8,High
+1087,2019,48,Male,Married,Family Medicine,23,3,4,7,High
+1088,2019,39,Male,Divorced,Cardiology,14,5,6,5,Low
+1089,2019,52,Male,Married,Neurology,27,5,6,5,Low
+1090,2019,52,Male,Married,Emergency Medicine,27,3,5,6,Low
+1091,2019,27,Female,Married,Anesthesiology,1,5,6,5,Low
+1092,2019,31,Female,Single,Obstetrics/Gynecology,6,4,5,6,Low
+1093,2019,55,Male,Married,Surgery,30,2,4,8,High
+1094,2019,56,Female,Married,Dermatology,31,4,6,5,Low
+1095,2019,46,Female,Married,Radiology,21,4,5,6,Low
+1096,2019,41,Male,Divorced,Pediatrics,16,4,5,6,Low
+1097,2019,52,Male,Divorced,Psychiatry,27,6,7,4,Low
+1098,2019,45,Female,Single,Internal Medicine,20,3,4,7,High
+1099,2019,42,Male,Married,Family Medicine,17,4,6,5,Low
+1100,2019,41,Female,Married,Cardiology,16,2,4,8,High
+1101,2019,45,Female,Single,Neurology,20,2,4,8,High
+1102,2019,42,Female,Divorced,Emergency Medicine,17,1,3,9,High
+1103,2019,47,Male,Married,Anesthesiology,22,3,5,7,High
+1104,2019,44,Female,Married,Obstetrics/Gynecology,19,3,5,7,High
+1105,2019,46,Female,Single,Surgery,21,0,3,10,High
+1106,2019,44,Female,Married,Dermatology,19,3,5,6,Low
+1107,2019,46,Female,Single,Radiology,21,3,5,6,Low
+1108,2019,49,Female,Married,Pediatrics,24,2,4,8,High
+1109,2019,51,Male,Married,Psychiatry,26,4,5,6,Low
+1110,2019,36,Female,Married,Internal Medicine,3,2,4,8,High
+1111,2019,58,Female,Married,Family Medicine,33,5,6,5,Low
+1112,2019,58,Female,Married,Cardiology,33,4,5,6,Low
+1113,2019,51,Male,Married,Neurology,26,3,5,7,High
+1114,2019,32,Male,Single,Emergency Medicine,7,0,3,10,High
+1115,2019,39,Female,Single,Anesthesiology,14,4,5,6,Low
+1116,2019,42,Female,Married,Obstetrics/Gynecology,17,5,6,5,Low
+1117,2019,47,Male,Married,Surgery,22,1,3,9,High
+1118,2019,42,Male,Single,Dermatology,17,3,4,7,High
+1119,2019,56,Female,Divorced,Radiology,31,4,6,5,Low
+1120,2019,36,Male,Married,Pediatrics,4,1,3,9,High
+1121,2019,47,Female,Married,Psychiatry,22,3,4,7,High
+1122,2019,44,Female,Married,Internal Medicine,19,1,3,9,High
+1123,2019,29,Female,Single,Family Medicine,4,2,4,8,High
+1124,2019,37,Male,Married,Cardiology,4,2,4,8,High
+1125,2019,42,Male,Married,Neurology,17,4,5,6,Low
+1126,2019,52,Female,Married,Emergency Medicine,27,0,3,10,High
+1127,2019,46,Male,Married,Anesthesiology,21,4,5,6,Low
+1128,2019,44,Female,Divorced,Obstetrics/Gynecology,19,3,4,7,High
+1129,2019,31,Male,Married,Surgery,6,1,3,9,High
+1130,2019,42,Male,Single,Dermatology,17,4,6,5,Low
+1131,2019,49,Female,Married,Radiology,24,6,7,3,Low
+1132,2019,46,Female,Divorced,Pediatrics,21,4,5,6,Low
+1133,2019,36,Female,Married,Psychiatry,11,5,6,4,Low
+1134,2019,54,Female,Single,Internal Medicine,29,3,5,6,Low
+1135,2019,37,Female,Married,Family Medicine,0,3,5,7,High
+1136,2019,56,Female,Married,Cardiology,31,4,5,6,Low
+1137,2019,32,Female,Married,Neurology,5,2,4,8,High
+1138,2019,46,Male,Divorced,Emergency Medicine,21,2,4,7,High
+1139,2019,45,Male,Married,Anesthesiology,20,6,7,3,Low
+1140,2019,45,Female,Single,Obstetrics/Gynecology,20,2,4,8,High
+1141,2019,48,Female,Single,Surgery,23,0,3,10,High
+1142,2019,46,Female,Married,Dermatology,21,4,6,5,Low
+1143,2019,52,Male,Married,Radiology,27,5,6,5,Low
+1144,2019,38,Female,Married,Pediatrics,13,2,4,8,High
+1145,2019,40,Female,Married,Psychiatry,15,3,5,7,High
+1146,2019,49,Female,Married,Internal Medicine,24,1,3,9,High
+1147,2019,48,Female,Married,Family Medicine,23,3,4,7,High
+1148,2019,40,Female,Single,Cardiology,15,1,3,9,High
+1149,2019,45,Male,Single,Neurology,20,4,6,5,Low
+1150,2019,50,Male,Single,Emergency Medicine,25,0,3,10,High
+1151,2019,50,Male,Single,Obstetrics/Gynecology,25,4,5,6,Low
+1152,2019,33,Male,Married,Surgery,8,3,4,7,High
+1153,2019,49,Male,Married,Dermatology,24,6,7,4,Low
+1154,2019,45,Male,Married,Radiology,20,4,6,5,Low
+1155,2019,48,Female,Married,Pediatrics,23,2,4,8,High
+1156,2019,41,Male,Single,Psychiatry,16,3,5,7,High
+1157,2019,49,Male,Divorced,Internal Medicine,24,4,6,5,Low
+1158,2019,37,Male,Married,Family Medicine,12,3,5,7,High
+1159,2019,41,Male,Single,Cardiology,16,2,4,8,High
+1160,2019,44,Male,Single,Neurology,19,4,6,5,Low
+1161,2019,43,Male,Married,Emergency Medicine,18,1,3,9,High
+1162,2019,35,Male,Married,Anesthesiology,10,3,4,7,High
+1163,2019,48,Female,Married,Obstetrics/Gynecology,23,2,4,8,High
+1164,2019,37,Female,Married,Surgery,12,4,5,6,Low
+1165,2019,49,Female,Married,Dermatology,24,3,5,6,Low
+1166,2019,35,Male,Single,Radiology,3,5,6,4,Low
+1167,2019,43,Male,Married,Pediatrics,18,2,4,8,High
+1168,2019,48,Male,Married,Psychiatry,23,5,6,5,Low
+1169,2019,41,Female,Married,Internal Medicine,16,2,4,8,High
+1170,2019,38,Female,Married,Family Medicine,13,3,5,7,High
+1171,2019,55,Female,Divorced,Cardiology,30,2,4,8,High
+1172,2019,41,Male,Married,Neurology,16,2,4,8,High
+1173,2019,51,Female,Married,Emergency Medicine,26,0,3,10,High
+1174,2019,48,Male,Married,Anesthesiology,23,3,5,7,High
+1175,2019,59,Female,Single,Obstetrics/Gynecology,34,4,5,6,Low
+1176,2019,45,Male,Married,Surgery,20,4,5,6,Low
+1177,2019,38,Male,Married,Dermatology,13,4,5,6,Low
+1178,2019,43,Female,Married,Radiology,18,4,5,6,Low
+1179,2019,40,Female,Married,Pediatrics,15,4,5,6,Low
+1180,2019,34,Female,Divorced,Psychiatry,9,4,5,6,Low
+1181,2019,49,Male,Married,Internal Medicine,24,3,5,6,Low
+1182,2019,49,Male,Married,Family Medicine,24,4,6,5,Low
+1183,2019,53,Male,Married,Cardiology,28,5,6,5,Low
+1184,2019,40,Male,Divorced,Neurology,15,4,5,6,Low
+1185,2019,28,Male,Married,Emergency Medicine,3,2,4,8,High
+1186,2019,41,Female,Single,Anesthesiology,16,5,6,5,Low
+1187,2019,45,Female,Single,Obstetrics/Gynecology,20,2,4,8,High
+1188,2019,37,Female,Married,Surgery,12,3,4,7,High
+1189,2019,42,Male,Married,Dermatology,17,6,7,4,Low
+1190,2019,52,Female,Married,Radiology,27,4,5,6,Low
+1191,2019,46,Female,Married,Pediatrics,21,2,4,8,High
+1192,2019,48,Female,Married,Psychiatry,23,5,6,5,Low
+1193,2019,51,Female,Married,Internal Medicine,26,2,4,8,High
+1194,2019,55,Male,Married,Family Medicine,30,3,4,7,High
+1195,2019,49,Male,Married,Cardiology,24,5,6,5,Low
+1196,2019,53,Female,Married,Neurology,28,2,4,8,High
+1197,2019,31,Female,Single,Emergency Medicine,6,0,2,11,High
+1198,2019,47,Female,Single,Anesthesiology,22,3,4,7,High
+1199,2019,47,Female,Married,Obstetrics/Gynecology,22,3,4,7,High
+1200,2019,53,Male,Married,Surgery,28,3,5,7,High
+1201,2020,50,Female,Single,Obstetrics/Gynecology,25,5,6,4,Low
+1202,2020,43,Female,Single,Surgery,18,1,3,9,High
+1203,2020,36,Female,Married,Dermatology,11,6,7,4,Low
+1204,2020,51,Female,Married,Radiology,26,5,6,5,Low
+1205,2020,36,Female,Married,Pediatrics,11,5,6,5,Low
+1206,2020,49,Female,Married,Psychiatry,24,3,5,6,Low
+1207,2020,36,Male,Married,Internal Medicine,11,3,5,7,High
+1208,2020,38,Male,Married,Family Medicine,13,4,5,6,Low
+1209,2020,46,Male,Married,Cardiology,21,6,7,4,Low
+1210,2020,53,Female,Divorced,Neurology,28,3,5,7,High
+1211,2020,43,Male,Married,Emergency Medicine,18,3,5,7,High
+1212,2020,40,Male,Single,Anesthesiology,15,4,6,5,Low
+1213,2020,50,Female,Single,Obstetrics/Gynecology,25,4,6,5,Low
+1214,2020,36,Male,Married,Surgery,11,2,4,8,High
+1215,2020,42,Male,Married,Dermatology,17,5,6,4,Low
+1216,2020,42,Male,Married,Radiology,17,6,7,3,Low
+1217,2020,42,Male,Married,Pediatrics,17,3,5,7,High
+1218,2020,44,Male,Married,Psychiatry,19,4,5,6,Low
+1219,2020,44,Female,Married,Internal Medicine,19,2,4,8,High
+1220,2020,46,Female,Married,Family Medicine,21,3,4,7,High
+1221,2020,46,Female,Married,Cardiology,21,5,6,4,Low
+1222,2020,42,Male,Married,Neurology,17,3,4,7,High
+1223,2020,48,Male,Married,Emergency Medicine,23,3,5,7,High
+1224,2020,53,Female,Married,Anesthesiology,28,4,5,6,Low
+1225,2020,38,Male,Single,Obstetrics/Gynecology,13,6,7,4,Low
+1226,2020,47,Male,Single,Surgery,22,2,4,8,High
+1227,2020,30,Male,Married,Dermatology,5,4,5,6,Low
+1228,2020,49,Male,Married,Radiology,24,5,6,5,Low
+1229,2020,46,Female,Married,Pediatrics,21,2,4,8,High
+1230,2020,44,Female,Married,Psychiatry,19,6,7,3,Low
+1231,2020,43,Male,Married,Internal Medicine,18,5,6,5,Low
+1232,2020,35,Male,Single,Family Medicine,10,4,5,6,Low
+1233,2020,44,Female,Married,Cardiology,19,3,5,7,High
+1234,2020,43,Male,Married,Neurology,18,3,4,7,High
+1235,2020,53,Male,Married,Emergency Medicine,28,1,3,9,High
+1236,2020,38,Male,Single,Anesthesiology,13,3,5,6,Low
+1237,2020,29,Female,Married,Obstetrics/Gynecology,4,3,4,7,High
+1238,2020,48,Female,Married,Surgery,23,4,6,5,Low
+1239,2020,30,Male,Married,Dermatology,5,4,5,6,Low
+1240,2020,40,Male,Married,Radiology,15,5,6,4,Low
+1241,2020,38,Female,Married,Pediatrics,5,2,4,8,High
+1242,2020,33,Female,Married,Psychiatry,8,5,6,5,Low
+1243,2020,47,Female,Married,Internal Medicine,22,4,6,5,Low
+1244,2020,35,Male,Married,Family Medicine,10,4,6,5,Low
+1245,2020,36,Male,Divorced,Cardiology,11,3,4,7,High
+1246,2020,55,Male,Married,Neurology,30,4,6,5,Low
+1247,2020,49,Female,Married,Emergency Medicine,24,1,3,9,High
+1248,2020,47,Female,Married,Anesthesiology,22,4,5,6,Low
+1249,2020,42,Male,Married,Obstetrics/Gynecology,17,5,6,4,Low
+1250,2020,41,Male,Married,Surgery,16,2,4,7,High
+1251,2020,48,Female,Married,Dermatology,23,5,6,5,Low
+1252,2020,49,Male,Single,Radiology,24,4,6,5,Low
+1253,2020,44,Female,Single,Pediatrics,19,4,6,5,Low
+1254,2020,39,Male,Married,Psychiatry,2,3,5,6,Low
+1255,2020,45,Male,Single,Internal Medicine,20,2,4,8,High
+1256,2020,39,Female,Single,Family Medicine,14,5,6,5,Low
+1257,2020,55,Female,Married,Cardiology,30,5,6,4,Low
+1258,2020,45,Female,Married,Neurology,20,4,5,6,Low
+1259,2020,49,Male,Married,Emergency Medicine,24,4,5,6,Low
+1260,2020,49,Male,Single,Anesthesiology,24,4,6,5,Low
+1261,2020,39,Male,Married,Obstetrics/Gynecology,14,5,6,4,Low
+1262,2020,48,Male,Married,Surgery,23,2,4,7,High
+1263,2020,42,Male,Single,Dermatology,17,6,7,4,Low
+1264,2020,30,Female,Single,Radiology,5,4,5,6,Low
+1265,2020,33,Female,Married,Pediatrics,8,1,4,8,High
+1266,2020,43,Male,Divorced,Psychiatry,18,4,5,6,Low
+1267,2020,40,Male,Married,Internal Medicine,15,3,4,7,High
+1268,2020,29,Female,Married,Family Medicine,4,3,4,7,High
+1269,2020,53,Female,Married,Cardiology,28,2,4,7,High
+1270,2020,32,Male,Divorced,Neurology,7,4,5,6,Low
+1271,2020,49,Male,Divorced,Emergency Medicine,24,4,5,6,Low
+1272,2020,46,Male,Divorced,Anesthesiology,21,6,7,3,Low
+1273,2020,45,Male,Married,Obstetrics/Gynecology,20,3,5,6,Low
+1274,2020,51,Male,Married,Surgery,26,3,5,7,High
+1275,2020,58,Male,Married,Dermatology,33,4,5,6,Low
+1276,2020,39,Female,Married,Radiology,14,5,6,5,Low
+1277,2020,42,Female,Married,Pediatrics,17,3,5,7,High
+1278,2020,41,Female,Single,Psychiatry,16,3,5,6,Low
+1279,2020,39,Female,Married,Internal Medicine,14,3,4,7,High
+1280,2020,38,Female,Married,Family Medicine,3,4,5,6,Low
+1281,2020,56,Male,Married,Cardiology,31,3,5,7,High
+1282,2020,41,Female,Married,Neurology,16,2,4,8,High
+1283,2020,38,Female,Married,Emergency Medicine,5,1,3,9,High
+1284,2020,34,Male,Married,Anesthesiology,9,5,6,4,Low
+1285,2020,44,Female,Married,Obstetrics/Gynecology,19,5,6,5,Low
+1286,2020,40,Male,Married,Surgery,15,3,5,7,High
+1287,2020,59,Female,Married,Dermatology,34,3,5,7,High
+1288,2020,42,Male,Married,Radiology,17,4,6,5,Low
+1289,2020,61,Male,Single,Pediatrics,36,2,4,7,High
+1290,2020,40,Male,Married,Psychiatry,15,4,6,5,Low
+1291,2020,30,Male,Married,Internal Medicine,5,4,5,6,Low
+1292,2020,45,Male,Married,Family Medicine,20,3,5,7,High
+1293,2020,44,Male,Married,Cardiology,19,4,5,6,Low
+1294,2020,39,Female,Married,Neurology,14,3,4,7,High
+1295,2020,49,Female,Married,Emergency Medicine,24,3,4,7,High
+1296,2020,58,Female,Single,Anesthesiology,33,5,6,5,Low
+1297,2020,39,Male,Married,Obstetrics/Gynecology,14,4,6,5,Low
+1298,2020,43,Male,Single,Surgery,18,4,6,5,Low
+1299,2020,46,Female,Married,Dermatology,21,4,5,6,Low
+1300,2020,39,Female,Married,Radiology,14,4,5,6,Low
+1301,2020,55,Male,Single,Pediatrics,30,2,4,7,High
+1302,2020,51,Female,Married,Psychiatry,26,6,7,3,Low
+1303,2020,41,Female,Married,Internal Medicine,16,4,6,5,Low
+1304,2020,37,Male,Married,Family Medicine,4,3,5,6,Low
+1305,2020,46,Female,Divorced,Cardiology,21,2,4,8,High
+1306,2020,54,Male,Single,Neurology,29,4,5,6,Low
+1307,2020,51,Male,Divorced,Emergency Medicine,26,2,4,8,High
+1308,2020,49,Female,Divorced,Anesthesiology,24,6,7,4,Low
+1309,2020,54,Female,Divorced,Obstetrics/Gynecology,29,5,6,5,Low
+1310,2020,40,Female,Married,Surgery,15,2,4,7,High
+1311,2020,39,Female,Single,Dermatology,14,4,6,5,Low
+1312,2020,40,Female,Divorced,Radiology,15,5,6,5,Low
+1313,2020,56,Male,Married,Pediatrics,31,4,6,5,Low
+1314,2020,38,Male,Married,Psychiatry,1,6,7,4,Low
+1315,2020,42,Female,Married,Internal Medicine,17,2,4,8,High
+1316,2020,45,Female,Single,Family Medicine,20,2,4,8,High
+1317,2020,37,Female,Married,Cardiology,12,4,6,5,Low
+1318,2020,35,Male,Married,Neurology,10,2,4,8,High
+1319,2020,49,Male,Single,Emergency Medicine,24,2,4,8,High
+1320,2020,46,Female,Single,Anesthesiology,21,6,7,4,Low
+1321,2020,53,Female,Single,Obstetrics/Gynecology,28,3,5,6,Low
+1322,2020,35,Male,Married,Surgery,10,2,4,8,High
+1323,2020,44,Female,Married,Dermatology,19,6,7,4,Low
+1324,2020,37,Male,Married,Radiology,12,5,6,4,Low
+1325,2020,47,Male,Married,Pediatrics,22,3,5,6,Low
+1326,2020,49,Female,Married,Psychiatry,24,6,7,3,Low
+1327,2020,46,Male,Married,Internal Medicine,21,2,4,8,High
+1328,2020,52,Male,Married,Family Medicine,27,5,6,5,Low
+1329,2020,44,Female,Married,Cardiology,19,5,6,4,Low
+1330,2020,54,Female,Single,Neurology,29,3,4,7,High
+1331,2020,45,Female,Married,Emergency Medicine,20,3,4,7,High
+1332,2020,36,Male,Married,Anesthesiology,11,6,7,3,Low
+1333,2020,37,Female,Married,Obstetrics/Gynecology,12,3,5,6,Low
+1334,2020,47,Male,Married,Surgery,22,2,4,7,High
+1335,2020,44,Female,Married,Dermatology,19,5,6,5,Low
+1336,2020,31,Female,Married,Radiology,6,4,5,6,Low
+1337,2020,45,Female,Married,Pediatrics,20,2,4,8,High
+1338,2020,45,Male,Married,Psychiatry,20,6,7,4,Low
+1339,2020,44,Male,Married,Internal Medicine,19,3,4,7,High
+1340,2020,39,Male,Married,Family Medicine,14,3,5,7,High
+1341,2020,48,Female,Married,Cardiology,23,5,6,4,Low
+1342,2020,45,Male,Married,Neurology,20,3,4,7,High
+1343,2020,36,Male,Divorced,Emergency Medicine,2,1,3,9,High
+1344,2020,41,Female,Married,Anesthesiology,16,4,6,5,Low
+1345,2020,49,Male,Married,Obstetrics/Gynecology,24,5,6,4,Low
+1346,2020,42,Female,Divorced,Surgery,17,2,4,8,High
+1347,2020,41,Female,Married,Dermatology,16,4,5,6,Low
+1348,2020,44,Female,Divorced,Radiology,19,5,6,5,Low
+1349,2020,34,Female,Married,Pediatrics,9,1,4,8,High
+1350,2020,52,Male,Married,Psychiatry,27,6,7,4,Low
+1351,2020,36,Male,Married,Internal Medicine,11,2,4,8,High
+1352,2020,54,Male,Married,Family Medicine,29,5,6,5,Low
+1353,2020,44,Female,Married,Cardiology,19,4,6,5,Low
+1354,2020,40,Male,Married,Neurology,15,3,5,7,High
+1355,2020,48,Female,Married,Emergency Medicine,23,4,5,6,Low
+1356,2020,34,Male,Married,Anesthesiology,9,4,5,6,Low
+1357,2020,49,Male,Divorced,Obstetrics/Gynecology,24,3,5,7,High
+1358,2020,59,Female,Married,Surgery,34,1,4,8,High
+1359,2020,43,Male,Married,Dermatology,18,4,5,6,Low
+1360,2020,45,Female,Single,Radiology,20,4,5,6,Low
+1361,2020,51,Male,Single,Pediatrics,26,4,5,6,Low
+1362,2020,39,Female,Married,Psychiatry,3,3,5,6,Low
+1363,2020,56,Female,Married,Internal Medicine,31,4,6,5,Low
+1364,2020,53,Male,Married,Family Medicine,28,4,5,6,Low
+1365,2020,41,Male,Single,Cardiology,16,2,4,7,High
+1366,2020,40,Female,Married,Neurology,15,3,5,7,High
+1367,2020,43,Female,Married,Emergency Medicine,18,3,4,7,High
+1368,2020,36,Female,Divorced,Anesthesiology,11,6,7,4,Low
+1369,2020,37,Male,Married,Obstetrics/Gynecology,12,4,5,6,Low
+1370,2020,52,Female,Single,Surgery,27,2,4,8,High
+1371,2020,52,Female,Married,Dermatology,27,4,5,6,Low
+1372,2020,35,Female,Single,Radiology,2,3,4,7,High
+1373,2020,45,Male,Married,Pediatrics,20,4,6,5,Low
+1374,2020,53,Male,Married,Psychiatry,28,6,7,3,Low
+1375,2020,51,Female,Single,Internal Medicine,26,2,4,8,High
+1376,2020,50,Female,Divorced,Family Medicine,25,3,5,6,Low
+1377,2020,50,Female,Married,Cardiology,25,3,5,6,Low
+1378,2020,45,Male,Married,Neurology,20,3,5,7,High
+1379,2020,53,Female,Married,Emergency Medicine,28,2,4,8,High
+1380,2020,46,Male,Divorced,Anesthesiology,21,4,5,6,Low
+1381,2020,46,Female,Married,Obstetrics/Gynecology,21,3,5,6,Low
+1382,2020,32,Female,Married,Surgery,7,3,5,7,High
+1383,2020,49,Male,Married,Dermatology,24,4,5,6,Low
+1384,2020,49,Female,Married,Radiology,24,7,7,3,Low
+1385,2020,43,Male,Married,Pediatrics,18,4,6,5,Low
+1386,2020,42,Male,Married,Psychiatry,17,4,5,6,Low
+1387,2020,45,Male,Married,Internal Medicine,20,2,4,8,High
+1388,2020,52,Female,Married,Family Medicine,27,3,5,7,High
+1389,2020,40,Female,Single,Cardiology,15,2,4,7,High
+1390,2020,43,Male,Married,Neurology,18,4,6,5,Low
+1391,2020,46,Male,Single,Emergency Medicine,21,1,3,9,High
+1392,2020,33,Male,Divorced,Anesthesiology,8,3,5,7,High
+1393,2020,45,Male,Married,Obstetrics/Gynecology,20,4,6,5,Low
+1394,2020,46,Female,Married,Surgery,21,2,4,8,High
+1395,2020,48,Male,Married,Dermatology,23,4,6,5,Low
+1396,2020,30,Female,Married,Radiology,5,4,5,6,Low
+1397,2020,43,Male,Married,Pediatrics,18,3,5,7,High
+1398,2020,49,Male,Married,Psychiatry,24,5,6,5,Low
+1399,2020,44,Female,Married,Internal Medicine,19,2,4,8,High
+1400,2020,47,Male,Divorced,Family Medicine,22,3,5,7,High
+1401,2021,53,Female,Married,Cardiology,28,3,5,7,High
+1402,2021,37,Female,Single,Neurology,12,4,6,5,Low
+1403,2021,48,Female,Married,Emergency Medicine,23,1,3,9,High
+1404,2021,59,Female,Married,Anesthesiology,34,4,5,6,Low
+1405,2021,42,Male,Married,Obstetrics/Gynecology,17,4,6,5,Low
+1406,2021,56,Female,Married,Surgery,31,2,4,7,High
+1407,2021,49,Female,Married,Dermatology,24,6,7,4,Low
+1408,2021,41,Female,Married,Radiology,16,4,5,6,Low
+1409,2021,54,Male,Married,Pediatrics,29,4,6,5,Low
+1410,2021,45,Female,Married,Psychiatry,20,4,5,6,Low
+1411,2021,51,Female,Married,Internal Medicine,26,2,4,8,High
+1412,2021,53,Male,Single,Family Medicine,28,3,5,7,High
+1413,2021,32,Female,Divorced,Pathology,7,4,5,6,Low
+1414,2021,49,Male,Single,ENT,24,5,6,5,Low
+1415,2021,57,Female,Married,Urology,32,2,4,7,High
+1416,2021,55,Female,Divorced,Orthopedic Surgery,30,2,4,8,High
+1417,2021,52,Female,Married,Ophthalmology,27,5,6,5,Low
+1418,2021,60,Female,Single,Anesthesiology,35,3,5,6,Low
+1419,2021,33,Male,Married,General Surgery,8,1,3,8,High
+1420,2021,40,Male,Married,Psychiatry,15,4,5,6,Low
+1421,2021,40,Female,Single,Radiology,15,3,5,6,Low
+1422,2021,52,Male,Married,Obstetrics/Gynecology,27,4,5,6,Low
+1423,2021,37,Female,Married,Internal Medicine,4,1,3,9,High
+1424,2021,38,Female,Married,Neurology,13,2,4,8,High
+1425,2021,39,Female,Single,Emergency Medicine,14,1,3,9,High
+1426,2021,38,Female,Married,Cardiology,13,3,5,7,High
+1427,2021,34,Male,Married,Family Medicine,9,3,4,7,High
+1428,2021,53,Female,Married,Dermatology,28,3,5,6,Low
+1429,2021,48,Female,Married,Surgery,23,4,6,5,Low
+1430,2021,40,Male,Married,Radiology,15,5,6,4,Low
+1431,2021,44,Male,Married,Pediatrics,19,4,6,5,Low
+1432,2021,53,Male,Single,Psychiatry,28,3,5,6,Low
+1433,2021,50,Male,Married,Internal Medicine,25,3,5,7,High
+1434,2021,42,Female,Married,Family Medicine,17,3,5,6,Low
+1435,2021,42,Male,Married,Neurology,17,3,5,6,Low
+1436,2021,31,Female,Divorced,Emergency Medicine,3,2,4,8,High
+1437,2021,50,Male,Married,Anesthesiology,25,5,6,5,Low
+1438,2021,46,Female,Married,Obstetrics/Gynecology,21,5,7,4,Low
+1439,2021,51,Female,Married,General Surgery,26,2,4,8,High
+1440,2021,35,Female,Single,Psychiatry,10,3,5,7,High
+1441,2021,35,Male,Married,Radiology,10,7,7,3,Low
+1442,2021,48,Male,Married,Orthopedic Surgery,23,4,6,5,Low
+1443,2021,46,Male,Married,Ophthalmology,21,5,6,5,Low
+1444,2021,54,Female,Married,Anesthesiology,29,4,5,6,Low
+1445,2021,48,Male,Single,General Surgery,23,1,3,9,High
+1446,2021,59,Female,Married,Obstetrics/Gynecology,34,5,6,5,Low
+1447,2021,33,Female,Married,Internal Medicine,4,1,3,9,High
+1448,2021,44,Male,Married,Neurology,19,3,4,7,High
+1449,2021,47,Female,Married,Emergency Medicine,22,3,4,7,High
+1450,2021,39,Male,Married,Cardiology,14,5,6,5,Low
+1451,2021,51,Female,Married,General Surgery,26,2,4,8,High
+1452,2021,54,Female,Single,Orthopedic Surgery,29,3,4,7,High
+1453,2021,47,Female,Married,Neurology,22,3,4,7,High
+1454,2021,47,Male,Married,Obstetrics/Gynecology,22,4,5,6,Low
+1455,2021,42,Female,Married,Emergency Medicine,17,3,4,7,High
+1456,2021,55,Female,Married,Psychiatry,30,4,6,5,Low
+1457,2021,48,Male,Married,Anesthesiology,23,4,5,6,Low
+1458,2021,53,Male,Single,Internal Medicine,28,2,4,8,High
+1459,2021,59,Male,Married,Cardiology,34,4,5,6,Low
+1460,2021,43,Male,Married,Family Medicine,18,6,7,4,Low
+1461,2021,40,Male,Married,Dermatology,15,4,5,6,Low
+1462,2021,45,Male,Married,Radiology,20,7,8,2,Low
+1463,2021,39,Male,Married,Surgery,14,4,5,6,Low
+1464,2021,50,Male,Single,ENT,25,4,5,6,Low
+1465,2021,48,Female,Single,Urology,23,2,4,8,High
+1466,2021,42,Male,Married,Pathology,17,5,6,5,Low
+1467,2021,48,Female,Divorced,General Surgery,23,1,3,9,High
+1468,2021,50,Female,Married,Orthopedic Surgery,25,3,5,7,High
+1469,2021,45,Female,Married,Neurology,20,3,5,7,High
+1470,2021,31,Female,Single,Obstetrics/Gynecology,6,2,4,8,High
+1471,2021,55,Male,Divorced,Emergency Medicine,30,2,4,8,High
+1472,2021,50,Male,Divorced,Psychiatry,25,4,5,6,Low
+1473,2021,44,Male,Married,Anesthesiology,19,5,6,5,Low
+1474,2021,46,Male,Married,Internal Medicine,21,3,5,7,High
+1475,2021,39,Female,Married,Cardiology,14,5,6,4,Low
+1476,2021,34,Female,Married,Family Medicine,0,2,4,8,High
+1477,2021,54,Female,Single,Dermatology,29,3,4,7,High
+1478,2021,45,Female,Married,Radiology,20,7,7,3,Low
+1479,2021,37,Male,Married,Surgery,12,4,5,6,Low
+1480,2021,41,Female,Divorced,ENT,16,4,5,6,Low
+1481,2021,38,Male,Married,Urology,13,3,5,7,High
+1482,2021,42,Female,Married,Pathology,17,4,6,5,Low
+1483,2021,51,Male,Married,General Surgery,26,1,3,8,High
+1484,2021,36,Female,Married,Orthopedic Surgery,11,1,3,9,High
+1485,2021,43,Female,Single,Neurology,18,3,5,6,Low
+1486,2021,47,Male,Married,Obstetrics/Gynecology,22,6,7,3,Low
+1487,2021,41,Male,Married,Emergency Medicine,16,2,4,8,High
+1488,2021,41,Male,Married,Psychiatry,16,6,7,3,Low
+1489,2021,53,Female,Married,Anesthesiology,28,6,7,3,Low
+1490,2021,47,Female,Married,Internal Medicine,22,3,5,6,Low
+1491,2021,46,Female,Married,Cardiology,21,2,4,7,High
+1492,2021,53,Male,Married,Family Medicine,28,6,7,4,Low
+1493,2021,44,Male,Married,Dermatology,19,6,7,3,Low
+1494,2021,37,Female,Married,Radiology,12,4,6,5,Low
+1495,2021,48,Female,Divorced,Surgery,23,4,5,6,Low
+1496,2021,47,Female,Married,ENT,22,5,6,5,Low
+1497,2021,41,Female,Married,Urology,16,4,5,6,Low
+1498,2021,44,Male,Married,Pathology,19,4,5,6,Low
+1499,2021,42,Male,Married,General Surgery,17,1,3,8,High
+1500,2021,43,Male,Married,Orthopedic Surgery,18,3,4,7,High
+1501,2021,41,Male,Married,General Surgery,16,2,4,7,High
+1502,2021,54,Female,Married,Orthopedic Surgery,29,2,4,8,High
+1503,2021,42,Female,Married,Neurology,17,2,4,8,High
+1504,2021,33,Male,Married,Obstetrics/Gynecology,8,3,5,6,Low
+1505,2021,54,Male,Married,Emergency Medicine,29,2,4,8,High
+1506,2021,49,Female,Single,Psychiatry,24,3,5,6,Low
+1507,2021,40,Female,Married,Anesthesiology,15,6,7,3,Low
+1508,2021,49,Female,Married,Internal Medicine,24,2,4,8,High
+1509,2021,38,Female,Married,Cardiology,13,3,5,6,Low
+1510,2021,50,Male,Married,Family Medicine,25,5,6,5,Low
+1511,2021,37,Male,Married,Dermatology,12,4,5,6,Low
+1512,2021,49,Female,Married,Radiology,24,7,7,3,Low
+1513,2021,52,Male,Married,Surgery,27,2,4,7,High
+1514,2021,54,Male,Single,ENT,29,5,7,4,Low
+1515,2021,40,Male,Married,Urology,15,3,5,7,High
+1516,2021,49,Male,Married,Pathology,24,6,7,4,Low
+1517,2021,53,Male,Married,General Surgery,28,2,4,7,High
+1518,2021,44,Female,Married,Orthopedic Surgery,19,2,4,8,High
+1519,2021,48,Male,Married,Neurology,23,3,5,7,High
+1520,2021,58,Male,Single,Obstetrics/Gynecology,33,3,5,6,Low
+1521,2021,43,Female,Married,Emergency Medicine,18,3,5,6,Low
+1522,2021,53,Female,Single,Psychiatry,28,3,5,6,Low
+1523,2021,42,Male,Divorced,Anesthesiology,17,4,5,6,Low
+1524,2021,33,Male,Married,Internal Medicine,8,2,4,8,High
+1525,2021,52,Male,Single,Cardiology,27,4,6,5,Low
+1526,2021,53,Female,Divorced,Family Medicine,28,3,5,7,High
+1527,2021,44,Male,Married,Dermatology,19,4,6,5,Low
+1528,2021,52,Male,Divorced,Radiology,27,5,6,5,Low
+1529,2021,44,Female,Married,Surgery,19,3,5,6,Low
+1530,2021,41,Female,Single,ENT,16,5,6,4,Low
+1531,2021,47,Female,Married,Urology,22,3,5,7,High
+1532,2021,45,Female,Married,Pathology,20,4,5,6,Low
+1533,2021,41,Male,Married,General Surgery,16,2,4,7,High
+1534,2021,37,Female,Married,Orthopedic Surgery,4,1,3,9,High
+1535,2021,50,Male,Married,Neurology,25,3,5,6,Low
+1536,2021,49,Male,Single,Obstetrics/Gynecology,24,3,5,7,High
+1537,2021,54,Male,Married,Emergency Medicine,29,2,4,8,High
+1538,2021,56,Male,Divorced,Psychiatry,31,4,6,5,Low
+1539,2021,31,Male,Single,Anesthesiology,6,3,5,7,High
+1540,2021,48,Male,Married,Internal Medicine,23,4,5,6,Low
+1541,2021,41,Female,Single,Cardiology,16,2,4,8,High
+1542,2021,55,Female,Married,Family Medicine,30,3,5,7,High
+1543,2021,41,Male,Married,Dermatology,16,3,5,6,Low
+1544,2021,54,Male,Single,Radiology,29,4,6,5,Low
+1545,2021,52,Female,Married,Surgery,27,2,4,8,High
+1546,2021,49,Female,Divorced,ENT,24,4,5,6,Low
+1547,2021,33,Male,Married,Urology,8,3,5,7,High
+1548,2021,43,Male,Single,Pathology,18,6,7,3,Low
+1549,2021,40,Male,Single,General Surgery,15,1,3,9,High
+1550,2021,58,Male,Married,Orthopedic Surgery,33,2,4,8,High
+1551,2021,47,Male,Single,Neurology,22,2,4,8,High
+1552,2021,43,Female,Single,Obstetrics/Gynecology,18,3,5,7,High
+1553,2021,43,Male,Married,Emergency Medicine,18,2,4,8,High
+1554,2021,46,Male,Married,Psychiatry,21,4,5,6,Low
+1555,2021,36,Female,Divorced,Anesthesiology,11,6,7,4,Low
+1556,2021,46,Female,Married,Internal Medicine,21,2,4,8,High
+1557,2021,36,Female,Single,Cardiology,11,2,4,7,High
+1558,2021,46,Female,Married,Family Medicine,21,5,6,4,Low
+1559,2021,40,Female,Single,Dermatology,15,5,6,4,Low
+1560,2021,57,Male,Single,Radiology,32,5,6,5,Low
+1561,2021,43,Male,Married,Surgery,18,4,5,6,Low
+1562,2021,33,Male,Married,ENT,8,5,6,5,Low
+1563,2021,38,Male,Married,Urology,1,4,6,5,Low
+1564,2021,51,Female,Married,Pathology,26,4,6,5,Low
+1565,2021,38,Female,Married,General Surgery,5,1,3,8,High
+1566,2021,35,Male,Married,Orthopedic Surgery,4,4,5,6,Low
+1567,2021,52,Male,Married,Neurology,27,3,5,7,High
+1568,2021,35,Female,Single,Obstetrics/Gynecology,10,4,5,6,Low
+1569,2021,45,Female,Married,Emergency Medicine,20,1,3,9,High
+1570,2021,37,Male,Single,Psychiatry,12,5,6,4,Low
+1571,2021,42,Female,Married,Anesthesiology,17,4,6,5,Low
+1572,2021,50,Male,Married,Internal Medicine,25,3,4,7,High
+1573,2021,40,Female,Single,Cardiology,15,5,6,5,Low
+1574,2021,38,Female,Married,Family Medicine,13,3,5,7,High
+1575,2021,35,Male,Married,Dermatology,10,3,5,6,Low
+1576,2021,38,Female,Single,Radiology,3,5,6,5,Low
+1577,2021,56,Female,Married,Surgery,31,3,5,6,Low
+1578,2021,57,Male,Divorced,ENT,32,6,7,4,Low
+1579,2021,45,Male,Married,Urology,20,2,4,7,High
+1580,2021,51,Male,Married,Pathology,26,4,5,6,Low
+1581,2021,38,Male,Single,Orthopedic Surgery,13,1,3,9,High
+1582,2021,52,Male,Married,Neurology,27,3,5,6,Low
+1583,2021,31,Female,Married,Obstetrics/Gynecology,1,3,5,7,High
+1584,2021,44,Female,Divorced,Emergency Medicine,19,1,3,9,High
+1585,2021,41,Female,Single,Psychiatry,16,5,7,4,Low
+1586,2021,48,Male,Married,Anesthesiology,23,5,6,5,Low
+1587,2021,56,Male,Single,Internal Medicine,31,2,4,8,High
+1588,2021,54,Male,Married,Cardiology,29,4,5,6,Low
+1589,2021,37,Male,Single,Family Medicine,12,3,4,7,High
+1590,2021,45,Male,Married,Dermatology,20,4,6,5,Low
+1591,2021,53,Male,Single,Radiology,28,4,6,5,Low
+1592,2021,53,Female,Married,Surgery,28,4,6,5,Low
+1593,2021,42,Male,Single,ENT,17,4,5,6,Low
+1594,2021,42,Female,Married,Urology,17,2,4,7,High
+1595,2021,51,Female,Married,Pathology,26,4,6,5,Low
+1596,2021,36,Female,Single,General Surgery,11,1,3,9,High
+1597,2021,49,Male,Married,Orthopedic Surgery,24,2,4,8,High
+1598,2021,33,Female,Divorced,Neurology,8,4,6,5,Low
+1599,2021,40,Female,Single,Obstetrics/Gynecology,15,3,5,7,High
+1600,2021,42,Male,Married,Emergency Medicine,17,1,3,9,High
+1601,2022,48,Male,Married,General Surgery,23,2,4,8,High
+1602,2022,48,Female,Married,Orthopedic Surgery,23,4,5,6,Low
+1603,2022,47,Male,Divorced,Neurology,22,3,5,7,High
+1604,2022,47,Male,Married,Obstetrics/Gynecology,22,5,6,5,Low
+1605,2022,43,Male,Married,Emergency Medicine,18,4,5,6,Low
+1606,2022,44,Male,Single,Psychiatry,19,5,6,5,Low
+1607,2022,49,Male,Married,Anesthesiology,24,5,6,5,Low
+1608,2022,48,Female,Single,Internal Medicine,23,1,3,9,High
+1609,2022,44,Male,Married,Cardiology,19,5,6,4,Low
+1610,2022,41,Female,Married,Family Medicine,16,5,6,4,Low
+1611,2022,36,Male,Divorced,Dermatology,11,5,6,4,Low
+1612,2022,46,Male,Married,Radiology,21,4,6,5,Low
+1613,2022,46,Male,Married,Surgery,21,4,5,6,Low
+1614,2022,44,Male,Single,ENT,19,5,6,5,Low
+1615,2022,41,Female,Married,Urology,16,2,4,8,High
+1616,2022,49,Female,Married,Pathology,24,4,5,6,Low
+1617,2022,41,Male,Married,General Surgery,16,3,5,7,High
+1618,2022,42,Male,Married,Orthopedic Surgery,17,3,5,6,Low
+1619,2022,43,Male,Married,Neurology,18,4,6,5,Low
+1620,2022,42,Male,Single,Obstetrics/Gynecology,17,5,6,5,Low
+1621,2022,45,Female,Married,Emergency Medicine,20,2,4,8,High
+1622,2022,55,Female,Married,Psychiatry,30,4,5,6,Low
+1623,2022,53,Male,Married,Anesthesiology,28,5,6,5,Low
+1624,2022,39,Female,Married,Internal Medicine,14,3,4,7,High
+1625,2022,51,Male,Married,Cardiology,26,5,6,5,Low
+1626,2022,31,Female,Married,Family Medicine,3,2,4,8,High
+1627,2022,50,Female,Divorced,Dermatology,25,6,7,4,Low
+1628,2022,48,Female,Single,Radiology,23,3,5,6,Low
+1629,2022,42,Male,Single,Surgery,17,2,4,8,High
+1630,2022,40,Male,Married,ENT,15,7,7,3,Low
+1631,2022,45,Male,Married,Urology,20,2,4,8,High
+1632,2022,38,Male,Married,Pathology,13,5,6,5,Low
+1633,2022,43,Female,Married,General Surgery,18,1,3,9,High
+1634,2022,46,Male,Married,Orthopedic Surgery,21,3,4,7,High
+1635,2022,51,Male,Married,Neurology,26,3,5,6,Low
+1636,2022,49,Male,Married,Obstetrics/Gynecology,24,4,5,6,Low
+1637,2022,43,Female,Married,Emergency Medicine,18,3,4,7,High
+1638,2022,51,Female,Married,Psychiatry,26,5,6,5,Low
+1639,2022,40,Male,Single,Anesthesiology,15,6,7,4,Low
+1640,2022,45,Female,Married,Internal Medicine,20,2,4,8,High
+1641,2022,40,Male,Married,Cardiology,15,4,5,6,Low
+1642,2022,45,Female,Single,Family Medicine,20,4,5,6,Low
+1643,2022,43,Male,Married,Dermatology,18,4,6,5,Low
+1644,2022,39,Female,Married,Radiology,14,7,7,3,Low
+1645,2022,30,Male,Married,Surgery,5,4,5,6,Low
+1646,2022,37,Female,Divorced,ENT,12,4,5,6,Low
+1647,2022,42,Male,Married,Urology,17,4,5,6,Low
+1648,2022,46,Male,Married,Pathology,21,4,6,5,Low
+1649,2022,48,Female,Married,General Surgery,23,1,3,9,High
+1650,2022,42,Female,Single,Orthopedic Surgery,17,3,4,7,High
+1651,2022,38,Male,Single,Neurology,13,3,4,7,High
+1652,2022,53,Male,Married,Obstetrics/Gynecology,28,3,5,7,High
+1653,2022,48,Female,Married,Emergency Medicine,23,2,4,8,High
+1654,2022,44,Male,Married,Psychiatry,19,4,5,6,Low
+1655,2022,56,Male,Married,Anesthesiology,31,5,6,4,Low
+1656,2022,39,Female,Married,Internal Medicine,14,3,4,7,High
+1657,2022,54,Male,Single,Cardiology,29,2,4,8,High
+1658,2022,54,Female,Single,Family Medicine,29,5,6,5,Low
+1659,2022,43,Male,Divorced,Dermatology,18,3,5,6,Low
+1660,2022,34,Female,Married,Radiology,9,3,5,6,Low
+1661,2022,43,Female,Divorced,Surgery,18,1,3,9,High
+1662,2022,42,Female,Married,ENT,17,6,7,3,Low
+1663,2022,48,Male,Single,Urology,23,5,6,5,Low
+1664,2022,51,Male,Married,Pathology,26,4,6,5,Low
+1665,2022,42,Male,Married,General Surgery,17,1,3,9,High
+1666,2022,38,Female,Married,Orthopedic Surgery,13,2,4,8,High
+1667,2022,39,Female,Married,Neurology,14,2,4,8,High
+1668,2022,44,Male,Married,Obstetrics/Gynecology,19,3,5,7,High
+1669,2022,39,Male,Single,Emergency Medicine,14,3,4,7,High
+1670,2022,46,Female,Single,Psychiatry,21,5,6,4,Low
+1671,2022,45,Male,Married,Anesthesiology,20,5,6,4,Low
+1672,2022,37,Female,Married,Internal Medicine,4,3,4,7,High
+1673,2022,35,Male,Married,Cardiology,10,5,6,5,Low
+1674,2022,47,Female,Single,Family Medicine,22,4,5,6,Low
+1675,2022,48,Male,Married,Dermatology,23,4,6,5,Low
+1676,2022,44,Female,Married,Radiology,19,5,6,5,Low
+1677,2022,28,Male,Married,Surgery,3,3,5,7,High
+1678,2022,42,Male,Married,ENT,17,6,7,4,Low
+1679,2022,51,Male,Married,Urology,26,3,5,7,High
+1680,2022,49,Female,Married,Pathology,24,4,5,6,Low
+1681,2022,27,Female,Married,General Surgery,2,1,3,9,High
+1682,2022,44,Female,Married,Orthopedic Surgery,19,2,4,8,High
+1683,2022,48,Female,Married,Neurology,23,2,4,8,High
+1684,2022,37,Male,Single,Obstetrics/Gynecology,5,4,5,6,Low
+1685,2022,44,Male,Married,Emergency Medicine,19,3,5,7,High
+1686,2022,46,Female,Married,Psychiatry,21,5,6,5,Low
+1687,2022,61,Male,Divorced,Anesthesiology,36,4,5,6,Low
+1688,2022,43,Female,Single,Internal Medicine,18,4,5,6,Low
+1689,2022,49,Female,Divorced,Cardiology,24,4,5,6,Low
+1690,2022,39,Male,Single,Family Medicine,14,4,6,5,Low
+1691,2022,47,Male,Single,Dermatology,22,6,7,4,Low
+1692,2022,35,Male,Married,Radiology,1,4,5,6,Low
+1693,2022,37,Male,Married,Surgery,3,2,4,8,High
+1694,2022,50,Male,Single,ENT,25,5,6,4,Low
+1695,2022,39,Male,Divorced,Urology,14,2,4,8,High
+1696,2022,42,Female,Married,Pathology,17,4,6,5,Low
+1697,2022,51,Male,Single,General Surgery,26,1,3,9,High
+1698,2022,46,Male,Divorced,Orthopedic Surgery,21,3,5,6,Low
+1699,2022,40,Male,Single,Neurology,15,2,4,8,High
+1700,2022,47,Female,Married,Obstetrics/Gynecology,22,5,6,5,Low
+1701,2022,49,Female,Single,Emergency Medicine,24,1,3,9,High
+1702,2022,54,Male,Married,Psychiatry,29,4,5,6,Low
+1703,2022,46,Male,Married,Anesthesiology,21,4,5,6,Low
+1704,2022,42,Male,Married,Internal Medicine,17,4,5,6,Low
+1705,2022,47,Male,Married,Cardiology,22,3,5,7,High
+1706,2022,52,Male,Married,Family Medicine,27,6,7,4,Low
+1707,2022,47,Female,Married,Dermatology,22,6,7,4,Low
+1708,2022,43,Female,Married,Radiology,18,5,6,5,Low
+1709,2022,41,Male,Married,Surgery,16,5,6,5,Low
+1710,2022,35,Male,Divorced,ENT,4,4,5,6,Low
+1711,2022,44,Male,Single,Urology,19,2,4,8,High
+1712,2022,42,Female,Single,Pathology,17,5,6,5,Low
+1713,2022,43,Female,Married,General Surgery,18,4,5,6,Low
+1714,2022,44,Female,Single,Orthopedic Surgery,19,1,3,9,High
+1715,2022,47,Male,Married,Neurology,22,5,6,4,Low
+1716,2022,39,Male,Single,Obstetrics/Gynecology,14,3,5,7,High
+1717,2022,54,Male,Single,Emergency Medicine,29,3,5,6,Low
+1718,2022,38,Male,Married,Psychiatry,13,5,6,5,Low
+1719,2022,50,Male,Married,Anesthesiology,25,5,6,4,Low
+1720,2022,48,Female,Married,Internal Medicine,23,3,4,7,High
+1721,2022,45,Female,Married,Cardiology,20,4,5,6,Low
+1722,2022,43,Male,Married,Family Medicine,18,4,5,6,Low
+1723,2022,50,Male,Single,Dermatology,25,6,7,4,Low
+1724,2022,43,Male,Married,Radiology,18,6,7,3,Low
+1725,2022,47,Male,Married,Surgery,22,5,6,5,Low
+1726,2022,47,Female,Married,ENT,22,5,6,4,Low
+1727,2022,48,Male,Married,Urology,23,5,6,5,Low
+1728,2022,41,Female,Single,Pathology,16,6,7,4,Low
+1729,2022,36,Female,Married,General Surgery,11,2,4,8,High
+1730,2022,41,Male,Married,Orthopedic Surgery,16,3,5,6,Low
+1731,2022,38,Male,Married,Neurology,13,3,5,6,Low
+1732,2022,38,Female,Married,Obstetrics/Gynecology,13,3,4,7,High
+1733,2022,55,Male,Married,Emergency Medicine,30,2,4,8,High
+1734,2022,40,Male,Single,Psychiatry,15,6,7,4,Low
+1735,2022,34,Female,Married,Anesthesiology,9,3,4,7,High
+1736,2022,47,Female,Married,Internal Medicine,22,3,5,6,Low
+1737,2022,38,Male,Married,Cardiology,4,3,5,7,High
+1738,2022,40,Male,Single,Family Medicine,15,3,4,7,High
+1739,2022,44,Female,Married,Dermatology,19,6,7,4,Low
+1740,2022,37,Male,Married,Radiology,12,5,6,5,Low
+1741,2022,52,Female,Single,Surgery,27,1,3,9,High
+1742,2022,44,Female,Married,ENT,19,5,6,4,Low
+1743,2022,48,Male,Single,Urology,23,5,6,5,Low
+1744,2022,50,Male,Married,Pathology,25,4,6,5,Low
+1745,2022,40,Male,Married,General Surgery,15,2,4,8,High
+1746,2022,46,Male,Married,Orthopedic Surgery,21,2,4,8,High
+1747,2022,55,Male,Single,Neurology,30,3,5,7,High
+1748,2022,31,Male,Married,Obstetrics/Gynecology,6,5,6,4,Low
+1749,2022,56,Female,Married,Emergency Medicine,31,3,5,6,Low
+1750,2022,45,Male,Married,Psychiatry,20,5,6,5,Low
+1751,2022,42,Male,Married,Anesthesiology,17,5,6,4,Low
+1752,2022,39,Male,Single,Internal Medicine,3,3,4,7,High
+1753,2022,39,Male,Single,Cardiology,1,4,6,5,Low
+1754,2022,44,Male,Single,Family Medicine,19,3,5,6,Low
+1755,2022,43,Female,Married,Dermatology,18,3,5,7,High
+1756,2022,55,Male,Single,Radiology,30,5,6,5,Low
+1757,2022,41,Female,Single,Surgery,16,2,4,8,High
+1758,2022,46,Male,Married,ENT,21,5,6,5,Low
+1759,2022,51,Female,Single,Urology,26,1,3,9,High
+1760,2022,46,Male,Married,Pathology,21,4,6,5,Low
+1761,2022,50,Female,Married,General Surgery,25,4,5,6,Low
+1762,2022,34,Male,Married,Orthopedic Surgery,9,2,4,8,High
+1763,2022,38,Male,Divorced,Neurology,13,2,4,7,High
+1764,2022,34,Female,Married,Obstetrics/Gynecology,9,4,5,6,Low
+1765,2022,38,Female,Married,Emergency Medicine,1,0,3,10,High
+1766,2022,40,Male,Single,Psychiatry,15,4,5,6,Low
+1767,2022,45,Male,Divorced,Anesthesiology,20,5,6,4,Low
+1768,2022,42,Female,Single,Internal Medicine,17,3,5,7,High
+1769,2022,38,Female,Married,Cardiology,13,2,4,8,High
+1770,2022,40,Female,Married,Family Medicine,15,4,6,5,Low
+1771,2022,46,Female,Divorced,Dermatology,21,3,5,6,Low
+1772,2022,49,Male,Married,Radiology,24,5,6,4,Low
+1773,2022,28,Male,Single,Surgery,3,3,5,6,Low
+1774,2022,51,Male,Married,ENT,26,5,6,5,Low
+1775,2022,50,Male,Single,Urology,25,2,4,8,High
+1776,2022,61,Female,Single,Pathology,36,4,5,6,Low
+1777,2022,56,Female,Married,General Surgery,31,1,3,9,High
+1778,2022,49,Female,Single,Orthopedic Surgery,24,3,5,6,Low
+1779,2022,47,Male,Married,Neurology,22,3,4,7,High
+1780,2022,40,Male,Married,Obstetrics/Gynecology,15,6,7,4,Low
+1781,2022,50,Male,Married,Emergency Medicine,25,3,5,7,High
+1782,2022,45,Female,Married,Psychiatry,20,4,5,6,Low
+1783,2022,46,Male,Divorced,Anesthesiology,21,6,7,3,Low
+1784,2022,49,Female,Married,Internal Medicine,24,2,4,8,High
+1785,2022,50,Male,Married,Cardiology,25,3,4,7,High
+1786,2022,37,Male,Divorced,Family Medicine,0,3,5,7,High
+1787,2022,42,Male,Married,Dermatology,17,5,6,4,Low
+1788,2022,34,Male,Married,Radiology,9,7,7,3,Low
+1789,2022,45,Male,Divorced,Surgery,20,2,4,8,High
+1790,2022,47,Male,Married,ENT,22,6,7,4,Low
+1791,2022,40,Male,Married,Urology,15,3,5,7,High
+1792,2022,34,Female,Single,Pathology,1,3,5,7,High
+1793,2022,55,Female,Married,General Surgery,30,1,3,9,High
+1794,2022,48,Male,Married,Orthopedic Surgery,23,3,5,6,Low
+1795,2022,55,Female,Married,Neurology,30,4,5,6,Low
+1796,2022,39,Male,Married,Obstetrics/Gynecology,5,4,5,6,Low
+1797,2022,48,Male,Married,Emergency Medicine,23,3,5,7,High
+1798,2022,51,Female,Married,Psychiatry,26,4,5,6,Low
+1799,2022,55,Female,Married,Anesthesiology,30,5,6,5,Low
+1800,2022,31,Female,Married,Internal Medicine,6,2,4,8,High
+1801,2023,38,Male,Divorced,Cardiology,13,3,4,7,High
+1802,2023,50,Male,Married,Family Medicine,25,4,5,6,Low
+1803,2023,36,Male,Married,Dermatology,11,4,6,5,Low
+1804,2023,51,Male,Married,Radiology,26,5,6,5,Low
+1805,2023,37,Male,Married,Surgery,12,3,4,7,High
+1806,2023,44,Female,Married,ENT,19,5,6,5,Low
+1807,2023,43,Male,Married,Urology,18,3,5,7,High
+1808,2023,45,Female,Divorced,Pathology,20,6,7,3,Low
+1809,2023,45,Female,Married,General Surgery,20,1,3,9,High
+1810,2023,50,Female,Married,Orthopedic Surgery,25,1,3,9,High
+1811,2023,53,Female,Married,Neurology,28,5,6,5,Low
+1812,2023,39,Male,Divorced,Obstetrics/Gynecology,14,4,5,6,Low
+1813,2023,28,Male,Single,Emergency Medicine,3,1,3,9,High
+1814,2023,39,Male,Single,Psychiatry,14,4,5,6,Low
+1815,2023,54,Female,Married,Anesthesiology,29,6,7,4,Low
+1816,2023,42,Female,Married,Internal Medicine,17,2,4,8,High
+1817,2023,47,Female,Married,Cardiology,22,2,4,8,High
+1818,2023,40,Male,Married,Family Medicine,15,4,5,6,Low
+1819,2023,51,Male,Married,Dermatology,26,4,5,6,Low
+1820,2023,46,Male,Married,Radiology,21,4,6,5,Low
+1821,2023,36,Male,Single,Surgery,11,1,3,9,High
+1822,2023,47,Female,Married,ENT,22,4,5,6,Low
+1823,2023,46,Male,Married,Urology,21,3,4,7,High
+1824,2023,50,Female,Married,Pathology,25,5,6,4,Low
+1825,2023,32,Male,Married,General Surgery,2,1,3,9,High
+1826,2023,45,Male,Married,Orthopedic Surgery,20,4,6,5,Low
+1827,2023,52,Male,Married,Neurology,27,4,6,5,Low
+1828,2023,46,Male,Married,Obstetrics/Gynecology,21,4,5,6,Low
+1829,2023,50,Female,Married,Emergency Medicine,25,3,5,6,Low
+1830,2023,48,Male,Married,Psychiatry,23,5,6,5,Low
+1831,2023,53,Female,Married,Anesthesiology,28,4,5,6,Low
+1832,2023,42,Female,Married,Internal Medicine,17,4,6,5,Low
+1833,2023,30,Female,Divorced,Cardiology,5,3,4,7,High
+1834,2023,44,Female,Married,Family Medicine,19,5,6,4,Low
+1835,2023,42,Female,Single,Dermatology,17,5,6,4,Low
+1836,2023,41,Female,Married,Radiology,16,7,7,3,Low
+1837,2023,54,Female,Married,Surgery,29,2,4,8,High
+1838,2023,47,Female,Married,ENT,22,6,7,3,Low
+1839,2023,43,Female,Married,Urology,18,4,5,6,Low
+1840,2023,37,Female,Single,Pathology,12,3,5,6,Low
+1841,2023,32,Female,Married,General Surgery,7,1,3,9,High
+1842,2023,45,Female,Single,Orthopedic Surgery,20,3,5,6,Low
+1843,2023,39,Male,Married,Neurology,14,2,4,7,High
+1844,2023,57,Male,Divorced,Obstetrics/Gynecology,32,6,7,4,Low
+1845,2023,37,Male,Married,Emergency Medicine,12,1,3,9,High
+1846,2023,57,Female,Married,Psychiatry,32,4,5,6,Low
+1847,2023,55,Female,Single,Anesthesiology,30,4,5,6,Low
+1848,2023,32,Female,Single,Internal Medicine,7,3,5,6,Low
+1849,2023,46,Male,Married,Cardiology,21,3,4,7,High
+1850,2023,46,Male,Divorced,Family Medicine,21,4,5,6,Low
+1851,2023,33,Male,Married,Dermatology,8,3,5,7,High
+1852,2023,44,Female,Single,Radiology,19,3,5,6,Low
+1853,2023,44,Male,Married,Surgery,19,2,4,8,High
+1854,2023,43,Male,Married,ENT,18,4,5,6,Low
+1855,2023,48,Male,Divorced,Urology,23,4,5,6,Low
+1856,2023,45,Male,Married,Pathology,20,6,7,4,Low
+1857,2023,46,Male,Married,General Surgery,21,2,4,8,High
+1858,2023,32,Female,Single,Orthopedic Surgery,7,3,5,7,High
+1859,2023,43,Female,Married,Neurology,18,5,6,5,Low
+1860,2023,44,Male,Married,Obstetrics/Gynecology,19,3,5,7,High
+1861,2023,39,Male,Married,Emergency Medicine,5,1,3,9,High
+1862,2023,39,Male,Single,Psychiatry,14,3,5,7,High
+1863,2023,47,Male,Married,Anesthesiology,22,4,5,6,Low
+1864,2023,48,Female,Married,Internal Medicine,23,2,4,8,High
+1865,2023,44,Female,Married,Cardiology,19,3,5,7,High
+1866,2023,46,Male,Married,Family Medicine,21,4,5,6,Low
+1867,2023,50,Female,Single,Dermatology,25,5,6,4,Low
+1868,2023,43,Male,Married,Radiology,18,5,6,4,Low
+1869,2023,38,Female,Married,Surgery,13,1,3,9,High
+1870,2023,33,Female,Single,ENT,8,5,6,5,Low
+1871,2023,42,Male,Married,Urology,17,3,4,7,High
+1872,2023,52,Female,Married,Pathology,27,4,5,6,Low
+1873,2023,55,Male,Divorced,General Surgery,30,4,5,6,Low
+1874,2023,50,Male,Married,Orthopedic Surgery,25,2,4,8,High
+1875,2023,48,Male,Married,Neurology,23,2,4,7,High
+1876,2023,47,Male,Married,Obstetrics/Gynecology,22,3,5,7,High
+1877,2023,49,Female,Divorced,Emergency Medicine,24,1,4,8,High
+1878,2023,56,Male,Married,Psychiatry,31,5,6,5,Low
+1879,2023,49,Female,Married,Anesthesiology,24,3,5,7,High
+1880,2023,60,Male,Married,Internal Medicine,35,2,4,7,High
+1881,2023,40,Female,Divorced,Cardiology,15,2,4,8,High
+1882,2023,50,Female,Married,Family Medicine,25,3,5,7,High
+1883,2023,58,Female,Married,Dermatology,33,6,7,4,Low
+1884,2023,46,Female,Married,Radiology,21,5,6,5,Low
+1885,2023,41,Female,Divorced,Surgery,16,3,5,7,High
+1886,2023,39,Male,Married,ENT,14,6,7,4,Low
+1887,2023,57,Male,Divorced,Urology,32,4,5,6,Low
+1888,2023,39,Male,Married,Pathology,14,4,6,5,Low
+1889,2023,34,Female,Married,General Surgery,9,1,3,9,High
+1890,2023,43,Female,Married,Orthopedic Surgery,18,4,5,6,Low
+1891,2023,50,Male,Married,Neurology,25,4,6,5,Low
+1892,2023,48,Male,Single,Obstetrics/Gynecology,23,3,5,7,High
+1893,2023,57,Female,Divorced,Emergency Medicine,32,1,3,9,High
+1894,2023,56,Male,Divorced,Psychiatry,31,5,6,4,Low
+1895,2023,36,Male,Married,Anesthesiology,11,4,5,6,Low
+1896,2023,47,Male,Married,Internal Medicine,22,5,6,5,Low
+1897,2023,51,Female,Divorced,Cardiology,26,2,4,8,High
+1898,2023,42,Female,Single,Family Medicine,17,3,5,7,High
+1899,2023,45,Male,Married,Dermatology,20,4,5,6,Low
+1900,2023,44,Female,Married,Radiology,19,7,7,3,Low
+1901,2023,49,Female,Married,Surgery,24,3,5,7,High
+1902,2023,43,Male,Single,ENT,18,5,6,5,Low
+1903,2023,39,Female,Married,Urology,14,2,4,8,High
+1904,2023,52,Male,Single,Pathology,27,4,6,5,Low
+1905,2023,41,Male,Single,General Surgery,16,2,4,8,High
+1906,2023,47,Male,Married,Orthopedic Surgery,22,2,4,8,High
+1907,2023,52,Male,Married,Neurology,27,3,5,6,Low
+1908,2023,39,Male,Divorced,Obstetrics/Gynecology,14,3,5,7,High
+1909,2023,52,Female,Married,Emergency Medicine,27,1,3,9,High
+1910,2023,44,Male,Married,Psychiatry,19,6,7,3,Low
+1911,2023,31,Female,Married,Anesthesiology,6,3,5,7,High
+1912,2023,44,Male,Married,Internal Medicine,19,4,5,6,Low
+1913,2023,42,Female,Married,Cardiology,17,5,6,5,Low
+1914,2023,38,Female,Married,Family Medicine,13,5,6,4,Low
+1915,2023,50,Male,Divorced,Dermatology,25,6,7,3,Low
+1916,2023,47,Male,Married,Radiology,22,5,6,4,Low
+1917,2023,59,Male,Single,Surgery,34,1,3,9,High
+1918,2023,38,Male,Married,ENT,13,4,5,6,Low
+1919,2023,36,Female,Married,Urology,11,4,5,6,Low
+1920,2023,47,Female,Married,Pathology,22,3,5,6,Low
+1921,2023,47,Female,Married,General Surgery,22,2,4,8,High
+1922,2023,42,Male,Married,Orthopedic Surgery,17,2,4,8,High
+1923,2023,47,Male,Married,Neurology,22,3,5,7,High
+1924,2023,39,Male,Married,Obstetrics/Gynecology,14,4,5,6,Low
+1925,2023,38,Female,Married,Emergency Medicine,13,1,3,9,High
+1926,2023,40,Female,Divorced,Psychiatry,15,4,5,6,Low
+1927,2023,47,Male,Married,Anesthesiology,22,5,6,4,Low
+1928,2023,37,Male,Married,Internal Medicine,3,4,5,6,Low
+1929,2023,42,Female,Married,Cardiology,17,2,4,8,High
+1930,2023,46,Male,Married,Family Medicine,21,3,5,7,High
+1931,2023,45,Male,Married,Dermatology,20,6,7,3,Low
+1932,2023,45,Male,Married,Radiology,20,5,6,5,Low
+1933,2023,46,Female,Single,Surgery,21,1,3,9,High
+1934,2023,36,Female,Married,ENT,4,3,5,6,Low
+1935,2023,41,Female,Married,Urology,16,2,4,8,High
+1936,2023,43,Male,Divorced,Pathology,18,4,6,5,Low
+1937,2023,46,Female,Married,General Surgery,21,1,3,9,High
+1938,2023,50,Male,Single,Orthopedic Surgery,25,2,4,8,High
+1939,2023,32,Male,Married,Neurology,7,2,4,8,High
+1940,2023,46,Female,Single,Obstetrics/Gynecology,21,2,4,8,High
+1941,2023,40,Female,Single,Emergency Medicine,15,1,3,9,High
+1942,2023,48,Male,Married,Psychiatry,23,6,7,3,Low
+1943,2023,40,Male,Married,Anesthesiology,15,5,6,4,Low
+1944,2023,41,Female,Divorced,Internal Medicine,16,4,6,5,Low
+1945,2023,45,Male,Married,Cardiology,20,5,6,4,Low
+1946,2023,47,Female,Married,Family Medicine,22,5,6,4,Low
+1947,2023,47,Female,Married,Dermatology,22,3,5,6,Low
+1948,2023,47,Male,Single,Radiology,22,4,6,5,Low
+1949,2023,33,Male,Married,Surgery,3,4,5,6,Low
+1950,2023,32,Male,Married,ENT,7,4,5,6,Low
+1951,2023,39,Male,Married,Urology,14,4,5,6,Low
+1952,2023,41,Female,Single,Pathology,16,4,5,6,Low
+1953,2023,40,Female,Divorced,General Surgery,15,1,3,9,High
+1954,2023,62,Female,Married,Orthopedic Surgery,37,2,4,8,High
+1955,2023,36,Male,Single,Neurology,11,5,6,5,Low
+1956,2023,44,Male,Married,Obstetrics/Gynecology,19,3,5,7,High
+1957,2023,50,Female,Married,Emergency Medicine,25,2,4,8,High
+1958,2023,48,Male,Married,Psychiatry,23,5,6,4,Low
+1959,2023,53,Male,Married,Anesthesiology,28,5,6,5,Low
+1960,2023,42,Female,Married,Internal Medicine,17,2,4,8,High
+1961,2023,47,Male,Single,Cardiology,22,5,6,5,Low
+1962,2023,42,Female,Married,Family Medicine,17,3,5,7,High
+1963,2023,41,Female,Married,Dermatology,16,3,5,6,Low
+1964,2023,53,Female,Married,Radiology,28,5,6,5,Low
+1965,2023,49,Male,Single,Surgery,24,3,5,7,High
+1966,2023,50,Male,Married,ENT,25,6,7,4,Low
+1967,2023,42,Male,Divorced,Urology,17,4,5,6,Low
+1968,2023,37,Female,Married,Pathology,12,5,6,4,Low
+1969,2023,49,Female,Married,General Surgery,24,1,3,9,High
+1970,2023,48,Male,Married,Orthopedic Surgery,23,2,4,8,High
+1971,2023,48,Male,Married,Neurology,23,3,5,6,Low
+1972,2023,46,Male,Married,Obstetrics/Gynecology,21,3,5,7,High
+1973,2023,41,Male,Married,Emergency Medicine,16,4,5,6,Low
+1974,2023,37,Male,Married,Psychiatry,12,5,6,4,Low
+1975,2023,47,Female,Married,Anesthesiology,22,4,5,6,Low
+1976,2023,43,Female,Married,Internal Medicine,18,4,6,5,Low
+1977,2023,48,Female,Divorced,Cardiology,23,3,5,7,High
+1978,2023,32,Female,Divorced,Family Medicine,7,2,4,8,High
+1979,2023,33,Male,Married,Dermatology,8,3,5,7,High
+1980,2023,52,Female,Married,Radiology,27,4,6,5,Low
+1981,2023,48,Female,Divorced,Surgery,23,2,4,8,High
+1982,2023,55,Female,Married,ENT,30,6,7,3,Low
+1983,2023,47,Male,Married,Urology,22,3,4,7,High
+1984,2023,59,Female,Married,Pathology,34,3,5,6,Low
+1985,2023,45,Male,Married,General Surgery,20,2,4,8,High
+1986,2023,53,Male,Married,Orthopedic Surgery,28,3,5,6,Low
+1987,2023,40,Female,Married,Neurology,15,4,5,6,Low
+1988,2023,42,Female,Married,Obstetrics/Gynecology,17,5,6,5,Low
+1989,2023,50,Female,Married,Emergency Medicine,25,3,5,6,Low
+1990,2023,36,Female,Single,Psychiatry,11,3,4,7,High
+1991,2023,51,Male,Married,Anesthesiology,26,5,6,4,Low
+1992,2023,40,Female,Married,Internal Medicine,15,4,6,5,Low
+1993,2023,40,Male,Married,Cardiology,15,3,4,7,High
+1994,2023,44,Female,Married,Family Medicine,19,2,4,7,High
+1995,2023,46,Male,Married,Dermatology,21,6,7,3,Low
+1996,2023,49,Male,Married,Radiology,24,7,8,2,Low
+1997,2023,48,Female,Single,Surgery,23,2,4,8,High
+1998,2023,53,Male,Married,ENT,28,6,7,4,Low
+1999,2023,50,Male,Married,Urology,25,5,6,5,Low
+2000,2023,54,Male,Married,Pathology,29,6,7,4,Low
